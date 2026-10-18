@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'assets/feed.xml'
+      - '.github/workflows/blog-post-workflow.yml'
   workflow_dispatch:
 
 permissions:
@@ -24,5 +25,7 @@ jobs:
           comment_tag_name: 'BLOG-POST-LIST'
           max_post_count: 5
           readme_path: 'README.md'
+          template: '$newline- $date · [$title]($url)'
+          date_format: 'yyyy-mm-dd'
           commit_message: 'chore: update latest blog posts'
           enable_keepalive: 'false'
