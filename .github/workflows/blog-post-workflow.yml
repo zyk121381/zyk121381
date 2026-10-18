@@ -1,0 +1,28 @@
+name: Update blog posts from repo feed
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'assets/feed.xml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://raw.githubusercontent.com/zyk121381/zyk121381/main/assets/feed.xml?nocache=${{ github.run_id }}'
+          comment_tag_name: 'BLOG-POST-LIST'
+          max_post_count: 5
+          readme_path: 'README.md'
+          commit_message: 'chore: update latest blog posts'
+          enable_keepalive: 'false'

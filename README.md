@@ -1,34 +1,123 @@
 <p align="center">
-    <!-- https://github.com/zyk121381 -->
+    <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Valerian&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
 </p>
+
+<!--p align="center">
+    <strong>English</strong> · <a href="README_CN.md">简体中文</a>
+</p-->
+
+<p align="center">
+    <a href="https://www.040426.xyz"><img src="https://img.shields.io/badge/Blog-0f172a?style=flat-square&logo=rss&logoColor=white" alt="Blog" title="Blog"/></a>
+    <a href="https://feedback.valerianblog.link"><img src="https://img.shields.io/badge/Feedback-2563eb?style=flat-square&logo=googleforms&logoColor=white" alt="Feedback" title="Feedback"/></a>
+    <img src="https://img.shields.io/badge/CityUHK%20%2F%20HNU-14b8a6?style=flat-square&logo=googlemaps&logoColor=white" alt="Education" title="CityUHK / HNU"/>
+    <a href="https://xa.2xrr.com/cashier/0e4c816c785bac0055"><img src="https://img.shields.io/badge/Sponsor-f43f5e?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Sponsor" title="Sponsor"/></a>
+</p>
+
+## 📊 GitHub Analytics
+
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=zyk121381&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <!-- stats card and streak card share nearly the same aspect ratio (467x190 / 495x195), so 48% each keeps the row flush -->
+    <a href="https://github.com/zyk121381?tab=repositories">
+        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zyk121381&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats"/>
+    </a>
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=zyk121381&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <a href="https://github.com/zyk121381?tab=overview">
+        <img width="48%" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=zyk121381&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats"/>
+    </a>
 </p>
+
 <p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zyk121381&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</p>
-<p align="center">
+    <!-- top-langs card: https://github.com/anuraghazra/github-readme-stats -->
+    <!-- widths are derived from each SVG's aspect ratio (300x165 and 440x220) so this row renders at the same height -->
+    <a href="https://github.com/zyk121381?tab=repositories">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyk121381&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" title="Top Languages"/>
+    </a>
+    &nbsp;
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <!-- <img width="800" src="https://github-profile-trophy.vercel.app/?username=zyk121381&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" /> -->
-    <!-- self-host in Vercel -->
-    <img width="800" src="https://github-profile-trophy-xiaokang2022.vercel.app/?username=zyk121381&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <!-- self-host in Vercel; column=4&row=3 turns it into a square-ish block that matches the top-langs height -->
+    <a href="https://github.com/zyk121381?tab=achievements">
+        <img width="50%" src="https://github-profile-trophy-xiaokang2022.vercel.app/?username=zyk121381&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage&column=4&row=3" alt="Profile Trophy" title="Profile Trophy"/>
+    </a>
 </p>
+
+<p align="center">
+    <!-- https://github.com/Platane/snk -->
+    <!-- generated daily by .github/workflows/contribution-snake.yml into the output branch; no third-party host involved -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyk121381/zyk121381/output/github-contribution-grid-snake-dark.svg"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyk121381/zyk121381/output/github-contribution-grid-snake.svg"/>
+        <img width="100%" src="https://raw.githubusercontent.com/zyk121381/zyk121381/output/github-contribution-grid-snake.svg" alt="Contribution snake" title="Contribution snake"/>
+    </picture>
+</p>
+
+## 👋 About Me
+
+I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. Before that I studied Engineering Mechanics at Hunan University.
+
+- 🎓 Postgraduate student in **Artificial Intelligence** at CityUHK.
+- 🔧 I build full-stack products: **TypeScript / React / Tailwind CSS** in front, Node.js and Python behind.
+- 🌱 Turning **LLM APIs into tools people actually keep using** — most of them started as something a friend needed.
+- 🧩 I open source whatever small utility turns out to be useful along the way.
+- ✍️ Notes and posts live at [my Blog](https://www.040426.xyz).
+
+## 🛠️ Tech Stack
+
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,go,rust,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,go,js,ts,php,matlab,nodejs,react,vue,css,html,md,latex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons"/>
+</p>
+
+<div align="center">
+
+| Layer | What I Work With |
+| :--- | :--- |
+| Languages | TypeScript, JavaScript, Python, Go, PHP, MATLAB, HTML / CSS |
+| Frontend | React, Vue, Tailwind CSS, responsive UI |
+| Backend & Runtime | Node.js, REST APIs, Cloudflare Workers / Pages |
+| AI | LLM API integration, prompt design, AI feature productization |
+| Foundations | Engineering Mechanics, numerical thinking from a mechanics background |
+| Tooling | Git, Docker, LaTeX, self-hosted deployment |
+
+</div>
+
+## ⚡ What I'm Up To
+
+- **Studies come first** — the postgraduate programme takes most of my time right now.
+- **Tools for my own problems** — I write a small utility whenever a problem is worth solving properly.
+- **Keeping what exists in shape** — fixing bugs and smoothing out the rough edges of what I've already shipped.
+
+## 📝 Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 Get in Touch
+
+Happy to talk about AI products, full-stack work, or anything worth building. The nicest way to reach me is the feedback page below.
+
+[Blog](https://www.040426.xyz) · [Feedback](https://feedback.valerianblog.link) · [Sponsor](https://xa.2xrr.com/cashier/0e4c816c785bac0055)
+
+If anything here saved you some time, you can [buy me a coffee](https://xa.2xrr.com/cashier/0e4c816c785bac0055) — or scan the code below.
+
+<p align="center">
+    <!-- QR code: https://goqr.me/api/ -->
+    <!-- dark/light variants, so the code never glares as a white block in dark mode -->
+    <a href="https://xa.2xrr.com/cashier/0e4c816c785bac0055">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fxa.2xrr.com%2Fcashier%2F0e4c816c785bac0055&bgcolor=0d1117&color=e6edf3"/>
+            <source media="(prefers-color-scheme: light)" srcset="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fxa.2xrr.com%2Fcashier%2F0e4c816c785bac0055&bgcolor=ffffff&color=000000"/>
+            <img width="100" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fxa.2xrr.com%2Fcashier%2F0e4c816c785bac0055&bgcolor=ffffff&color=000000" alt="Sponsor QR Code" title="Sponsor QR Code"/>
+        </picture>
+    </a>
 </p>
 
 <p align="center">
