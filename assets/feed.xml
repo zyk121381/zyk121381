@@ -31,6 +31,20 @@
       <category>CS5491</category>
     </item>
     <item>
+      <title>CS 5489 Lecture5: 线性回归与正则化进阶：从 OLS 到 Ridge 与 Lasso 的数学旅程</title>
+      <link>https://www.040426.xyz/posts/T4I1I</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/T4I1I</guid>
+      <pubDate>Fri, 09 Oct 2026 04:55:16 +0000</pubDate>
+      <description>本文详细探讨了线性回归（Linear Regression）的数学原理和实现方法，从普通最小二乘法（OLS）出发，逐步引入正则化策略以解决数值与工程挑战。文章首先介绍了回归任务的基本概念，并通过一维简单线性回归推导出解析解，进而扩展到多维特征。接着，详细阐述了正则化策略，包括岭回归（Ridge Regression）和套索回归（Lasso Regression），并从贝叶斯视角分析了这些方法的理论基础。此外，文章还探讨了正交设计下的解耦与收缩机理，以及OLS、Ridge和Lasso的全景横向对比。最后，通过波士顿房价预测案例，对正则化路径、超参数选择、回归系数的解释等问题进行了深入分析，并展望了非线性与鲁棒回归的发展方向。</description>
+      <category>课程笔记</category>
+      <category>大学</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>CityU</category>
+      <category>笔记</category>
+      <category>CS5489</category>
+    </item>
+    <item>
       <title>CS 5187 Lecture6: 从三维立体视觉几何重建到深度学习与 Transformer 架构</title>
       <link>https://www.040426.xyz/posts/6XWg5</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/6XWg5</guid>
@@ -264,20 +278,6 @@
       <category>CityU</category>
       <category>笔记</category>
       <category>CS5491</category>
-    </item>
-    <item>
-      <title>DSC 6007 Lecture2: 动态规划算法完备证明、状态增广与最短路问题</title>
-      <link>https://www.040426.xyz/posts/lPCiP</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/lPCiP</guid>
-      <pubDate>Wed, 09 Sep 2026 16:11:37 +0000</pubDate>
-      <description>本文详细介绍了动态规划（DP）的基本算法及其严谨归纳法证明，通过将高维时序全局决策问题分解为一系列低维单阶段嵌套优化问题，并依时间逆向倒推求解。文章首先阐述了动态规划的核心思想——最优性原理，接着介绍了算法命题，包括系统状态、控制输入、随机扰动等，并给出了逆向递推算法和终端边界条件。文章进一步通过严密的数学归纳法证明了算法的正确性，并分析了核心概念的跃迁。接着，文章通过案例一（烘焙烤蛋糕问题）展示了连续状态与控制的解析求解方法，并讨论了解析解的罕见性。案例二（库存控制问题）则展示了离散状态与动作的数值求解方法。此外，文章还介绍了有限状态平稳系统、状态增广技术以及确定性系统与最短路问题。最后，文章通过案例推演了关键路径分析（CPA）在工程项目管理中的应用，并总结了力学背景学生思维迁移到动态规划框架中的关键概念对照表。</description>
-      <category>课程笔记</category>
-      <category>大学</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>CityU</category>
-      <category>笔记</category>
-      <category>DSC6007</category>
     </item>
   </channel>
 </rss>
