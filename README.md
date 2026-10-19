@@ -98,6 +98,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 ## 📝 Latest 10 Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-10-16 · [【HNU100】庆祝湖南大学建校100周年大会隆重举行](https://www.040426.xyz/posts/jFewE)
 - 2026-10-16 · [CS 5489 Lecture6: 鲁棒非线性回归与聚类算法](https://www.040426.xyz/posts/izFDZ)
 - 2026-10-15 · [CS 5491 Lecture6: 最优化建模与凸优化理论及梯度下降](https://www.040426.xyz/posts/PuGN3)
 - 2026-10-14 · [DSC 6007 Lecture5: 马尔可夫决策过程的精确求解算法（Solving MDPs）](https://www.040426.xyz/posts/pQXky)
@@ -106,8 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-09-29 · [CS 5187 Lecture6: 从三维立体视觉几何重建到深度学习与 Transformer 架构](https://www.040426.xyz/posts/6XWg5)
 - 2026-09-29 · [CS 5187 Lecture5: 图像对齐、RANSAC 鲁棒估计与相机几何模型](https://www.040426.xyz/posts/rvDCL)
 - 2026-09-26 · [CS 5491 Lecture4: 对抗搜索与含概率博弈](https://www.040426.xyz/posts/B9pj2)
-- 2026-09-26 · [DSC 6007 Lecture4: 从标签修正到马尔可夫决策过程（MDP）与贝尔曼最优理论](https://www.040426.xyz/posts/n0dqu)
-- 2026-09-22 · [CS 5187 Lecture4: 局部特征描述、图像匹配与图像几何变换](https://www.040426.xyz/posts/fUk9r)<!-- BLOG-POST-LIST:END -->
+- 2026-09-26 · [DSC 6007 Lecture4: 从标签修正到马尔可夫决策过程（MDP）与贝尔曼最优理论](https://www.040426.xyz/posts/n0dqu)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
