@@ -17,6 +17,20 @@
       <category>情感电台</category>
     </item>
     <item>
+      <title>CS 5491 Lecture6: 最优化建模与凸优化理论及梯度下降</title>
+      <link>https://www.040426.xyz/posts/PuGN3</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/PuGN3</guid>
+      <pubDate>Thu, 15 Oct 2026 04:28:27 +0000</pubDate>
+      <description>本文深入探讨了从工程力学跨考到人工智能过程中，最优化理论与经典固体力学的联系，并详细介绍了最优化问题的数学建模框架、凸集与凸函数理论、梯度下降算法及其收敛动力学。文章首先阐述了最优化问题在机器学习与人工智能中的核心地位，并介绍了通用最优化数学模型的三要素：决策变量、可行域和目标函数。接着，详细分析了线性规划在通用模型下的特化，以及变量定义域类型和可行解、最优解与最优目标值的概念。随后，文章探讨了最优解的存在性判定，包括最优解存在且可达、无下界和不可行三种情形。此外，文章还介绍了极大化与极小化的对偶转换关系，并举例说明了其在不同领域的应用。在模块二，文章通过案例实战展示了经典优化问题建模与求解方法，包括旅行商问题、八皇后问题和过原点线性拟合。在模块三，深入探讨了凸集与凸函数理论，包括凸组合、凸集和凸函数的定义，以及凸性判别法。在模块四，讨论了最优点性质，包括局部最优与全局最优、存在性与唯一性。最后，文章详细介绍了梯度下降法，包括算法迭代步骤、步长动力学分析、收敛、震荡与发散以及算法终止准则，并探讨了潜在陷阱。</description>
+      <category>课程笔记</category>
+      <category>大学</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>CityU</category>
+      <category>笔记</category>
+      <category>CS5491</category>
+    </item>
+    <item>
       <title>DSC 6007 Lecture5: 马尔可夫决策过程的精确求解算法（Solving MDPs）</title>
       <link>https://www.040426.xyz/posts/pQXky</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/pQXky</guid>
@@ -264,20 +278,6 @@
       <category>CityU</category>
       <category>笔记</category>
       <category>CS5486</category>
-    </item>
-    <item>
-      <title>CS 5489 Lecture2: 从生成式模型（朴素贝叶斯、LDA）到判别式模型（逻辑回归）</title>
-      <link>https://www.040426.xyz/posts/cYiu9</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/cYiu9</guid>
-      <pubDate>Fri, 11 Sep 2026 15:22:45 +0000</pubDate>
-      <description>本文深入探讨了分类任务中的基石——贝叶斯最优决策，并详细介绍了数学符号、任务定义、贝叶斯最优分类器的形式化证明、生成式模型与判别式模型的哲学分歧。文章首先阐述了分类问题的目标，即从数据中寻找规律，使计算机能够对未知物体进行分类。接着，介绍了贝叶斯最优分类器的概念，并通过数学推导证明了在0-1损失下，使得期望错误率达到理论最低的决策规则是永远挑选后验概率最大的那个类别。此外，文章对比了生成式模型和判别式模型，分析了各自的优势和劣势，并介绍了朴素贝叶斯分类器和线性判别分析（LDA）的原理和实现方法。在判别式模型部分，重点介绍了逻辑回归的原理，包括线性分类器、Sigmoid激活函数、标签体系、损失函数推导、防止过拟合的方法和优化算法。最后，文章讨论了超参数调优、多分类扩展以及三大核心模型的横向全景对照总结，为读者提供了全面而深入的理解。</description>
-      <category>课程笔记</category>
-      <category>大学</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>CityU</category>
-      <category>笔记</category>
-      <category>CS5489</category>
     </item>
   </channel>
 </rss>
