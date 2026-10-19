@@ -17,6 +17,14 @@
       <category>情感电台</category>
     </item>
     <item>
+      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
+      <link>https://www.040426.xyz/posts/jFewE</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:37 +0000</pubDate>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
       <title>CS 5489 Lecture6: 鲁棒非线性回归与聚类算法</title>
       <link>https://www.040426.xyz/posts/izFDZ</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/izFDZ</guid>
@@ -266,18 +274,6 @@
       <category>CityU</category>
       <category>笔记</category>
       <category>CS5187</category>
-    </item>
-    <item>
-      <title>CS 5489 Tutorial 1: Text Document Classification with KNN and Naive Bayes</title>
-      <link>https://www.040426.xyz/posts/6V8g5</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/6V8g5</guid>
-      <pubDate>Fri, 11 Sep 2026 17:07:00 +0000</pubDate>
-      <description>本文介绍了一种使用朴素贝叶斯分类器对文本文档进行分类的方法，主要使用了“20 Newsgroups”数据集。首先，介绍了数据集的加载和预处理，包括提取特定类别和去除文本中的头部、尾部和引号。接着，讨论了从文本文件中提取特征的方法，包括单热编码、词袋模型和TF-IDF。然后，展示了如何使用K近邻（KNN）和伯努利朴素贝叶斯模型进行文本分类，并通过交叉验证选择最佳参数。文章还比较了不同参数设置下的模型性能，并分析了最具有信息量的词语。此外，探讨了平滑参数和词汇量大小对模型性能的影响，并展示了如何通过迭代不同的参数值来优化模型。最后，通过实验得出结论，最佳参数设置和词汇量大小可以显著提高分类的准确率。</description>
-      <category>大学</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>CityU</category>
-      <category>CS5489</category>
     </item>
   </channel>
 </rss>
