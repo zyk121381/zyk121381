@@ -95,7 +95,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - **Tools for my own problems** — I write a small utility whenever a problem is worth solving properly.
 - **Keeping what exists in shape** — fixing bugs and smoothing out the rough edges of what I've already shipped.
 
-## 📝 Latest Posts
+## 📝 Latest 10 Posts
 
 <!-- BLOG-POST-LIST:START -->
 - 2026-10-16 · [CS 5489 Lecture6: 鲁棒非线性回归与聚类算法](https://www.040426.xyz/posts/izFDZ)

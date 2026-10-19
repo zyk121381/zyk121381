@@ -23,7 +23,7 @@ jobs:
         with:
           feed_list: 'https://raw.githubusercontent.com/zyk121381/zyk121381/main/assets/feed.xml?nocache=${{ github.run_id }}'
           comment_tag_name: 'BLOG-POST-LIST'
-          max_post_count: 5
+          max_post_count: 10
           readme_path: 'README.md'
           template: '$newline- $date · [$title]($url)'
           date_format: 'yyyy-mm-dd'
