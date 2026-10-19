@@ -17,6 +17,20 @@
       <category>情感电台</category>
     </item>
     <item>
+      <title>CS 5489 Lecture6: 鲁棒非线性回归与聚类算法</title>
+      <link>https://www.040426.xyz/posts/izFDZ</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/izFDZ</guid>
+      <pubDate>Fri, 16 Oct 2026 04:11:43 +0000</pubDate>
+      <description>本文详细介绍了鲁棒回归与非线性回归、无监督学习与聚类算法的相关内容。首先，文章阐述了回归任务的基础与问题，特别是异常值对模型性能的影响，并介绍了鲁棒回归中的RANSAC算法及其理论采样轮数T的推导。接着，文章探讨了非线性回归的拓展，包括特征映射与多项式回归、核技巧和核岭回归（KRR），以及支持向量回归（SVR）的epsilon-不敏感损失函数和拉格朗日对偶全推导。在无监督学习部分，文章概述了无监督学习全景，包括密度估计、聚类、降维和流形嵌入等核心任务，并深入分析了K-Means聚类算法、高斯混合模型（GMM）与EM算法，以及GMM到K-Means的退化推导。最后，文章对比了K-Means聚类和高斯混合模型（GMM）的优缺点，为读者提供了理论知识和工程实践要点。</description>
+      <category>课程笔记</category>
+      <category>大学</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>CityU</category>
+      <category>笔记</category>
+      <category>CS5489</category>
+    </item>
+    <item>
       <title>CS 5491 Lecture6: 最优化建模与凸优化理论及梯度下降</title>
       <link>https://www.040426.xyz/posts/PuGN3</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/PuGN3</guid>
@@ -264,20 +278,6 @@
       <category>学术</category>
       <category>CityU</category>
       <category>CS5489</category>
-    </item>
-    <item>
-      <title>CS 5486 Lecture2: 模式识别与智能系统</title>
-      <link>https://www.040426.xyz/posts/bngZC</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/bngZC</guid>
-      <pubDate>Fri, 11 Sep 2026 16:09:14 +0000</pubDate>
-      <description>本文探讨了人工神经网络在工程力学中的类比和数学建模。文章首先阐述了人工神经网络与力学离散系统的对称性，包括神经元与节点的对应、突触连接权值与刚度系数的对应等。接着，从生物神经元的数学抽象出发，建立了神经网络的统一形式化代数框架，并深入剖析了经典计算基石——McCulloch-Pitts神经元模型和单层感知机及其收敛性理论与线性分类几何本质。文章还介绍了神经网络的结构与规则代数二元组描述，包括拓扑体系结构和行为动力学规则。此外，对比了M-P神经元与简单感知机的全维度技术，并提供了课堂重要知识点自查清单。</description>
-      <category>课程笔记</category>
-      <category>大学</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>CityU</category>
-      <category>笔记</category>
-      <category>CS5486</category>
     </item>
   </channel>
 </rss>
