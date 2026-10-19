@@ -17,6 +17,20 @@
       <category>情感电台</category>
     </item>
     <item>
+      <title>DSC 6007 Lecture5: 马尔可夫决策过程的精确求解算法（Solving MDPs）</title>
+      <link>https://www.040426.xyz/posts/pQXky</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/pQXky</guid>
+      <pubDate>Wed, 14 Oct 2026 09:53:23 +0000</pubDate>
+      <description>本文详细探讨了马尔可夫决策过程（MDP）的求解方法，包括价值迭代法（VI）、策略迭代法（PI）和线性规划法（LP）。首先介绍了MDP的基本概念和五元组定义，包括状态空间、动作空间、状态转移概率、奖励函数和折现因子。接着，深入阐述了贝尔曼最优方程和策略的概念，并介绍了策略贝尔曼算子和贝尔曼最优算子。然后，详细分析了价值迭代法，包括其算法流程、压缩映射定理、误差界和策略终止判定。接着，介绍了策略迭代法，包括其算法结构、策略评估、策略提升和策略提升定理。此外，还探讨了线性规划法，包括其核心建模直觉、标准型、Python CVXPY 工业求解范例。最后，对三种经典算法进行了全方位横向对比，并进行了最短路径问题（SPP）求解专题演练。</description>
+      <category>课程笔记</category>
+      <category>大学</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>CityU</category>
+      <category>笔记</category>
+      <category>DSC6007</category>
+    </item>
+    <item>
       <title>CS 5491 Lecture5: 从线性规划（LP）到整数规划的分支定界法（Branch and Bound）</title>
       <link>https://www.040426.xyz/posts/AeMs0</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/AeMs0</guid>
@@ -264,20 +278,6 @@
       <category>CityU</category>
       <category>笔记</category>
       <category>CS5489</category>
-    </item>
-    <item>
-      <title>CS 5491 Lecture2: 经典搜索算法与启发式设计</title>
-      <link>https://www.040426.xyz/posts/86kR4</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/86kR4</guid>
-      <pubDate>Thu, 10 Sep 2026 14:13:00 +0000</pubDate>
-      <description>本文深入探讨了搜索问题的数学建模与形式化表达，包括状态空间图、搜索树和通用树搜索算法骨架。文章首先介绍了状态空间图的概念，包括状态节点、转移有向边和目标测试，并讨论了维数灾难和显式建图的不可能性。接着，文章介绍了搜索树的概念，并比较了状态空间图节点和搜索树节点的区别。然后，文章详细阐述了通用树搜索算法骨架和边缘集合的概念，并给出了一个简单的算法框架。在第二部分，文章讨论了搜索算法的形式化评估指标和渐近复杂度推导，包括完备性、最优性、时间复杂度和空间复杂度。第三部分介绍了无信息搜索算法，包括深度优先搜索（DFS）、广度优先搜索（BFS）和迭代加深搜索（IDDFS），并分析了它们的性质和复杂度。第四部分讨论了有信息搜索和启发式函数，包括启发式函数的定义、物理直觉和经典工程设计案例。第五部分介绍了A*搜索算法的核心原理和完备最优性证明，包括综合评估函数、核心机制陷阱和启发式的可采纳性。最后，文章探讨了利用大语言模型（LLM）自动化构建启发式的前沿拓展，并介绍了DeepMind FunSearch框架。本文全面概括了搜索算法的理论基础和实际应用，为读者提供了深入理解和应用搜索算法的参考。</description>
-      <category>课程笔记</category>
-      <category>大学</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>CityU</category>
-      <category>笔记</category>
-      <category>CS5491</category>
     </item>
   </channel>
 </rss>
