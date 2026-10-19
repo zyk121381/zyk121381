@@ -17,6 +17,15 @@
       <category>情感电台</category>
     </item>
     <item>
+      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
+      <link>https://www.040426.xyz/posts/MWSnO</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
+      <pubDate>Mon, 19 Oct 2026 18:41:21 +0000</pubDate>
+      <author>人民日报要闻版</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
       <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
       <link>https://www.040426.xyz/posts/jFewE</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
@@ -261,20 +270,6 @@
       <category>音乐</category>
       <category>情感电台</category>
       <category>随笔</category>
-    </item>
-    <item>
-      <title>CS 5187 Lecture3: 从图像对齐到局部特征</title>
-      <link>https://www.040426.xyz/posts/z2Pcu</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/z2Pcu</guid>
-      <pubDate>Wed, 16 Sep 2026 09:36:41 +0000</pubDate>
-      <description>本文深入探讨了计算机视觉中局部特征的应用，特别是Harris角点检测算法。文章首先阐述了局部特征在图像拼接、机器人导航和3D重建等任务中的重要性，并介绍了特征检测的三个步骤：特征检测、特征描述和特征匹配。接着，文章详细分析了局部特征相对于全局特征的优越性，包括局部性、丰富性、辨别力和高效性。随后，文章对局部显著性的直观定义与数学建模进行了阐述，并推导了Harris角点检测的数学原理，包括一阶多元泰勒展开、误差函数展开为二次型以及几何解析。文章进一步探讨了Harris角点检测算法的流程，包括非极大值抑制等步骤。最后，文章分析了特征检测的不变性与等变性，并对尺度空间理论与斑点检测进行了讨论，以解决尺度变换问题。全文通过实例代码展示了Harris角点检测的实现，并讨论了算法的旋转等变性验证测试。</description>
-      <category>课程笔记</category>
-      <category>大学</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>CityU</category>
-      <category>笔记</category>
-      <category>CS5187</category>
     </item>
   </channel>
 </rss>
