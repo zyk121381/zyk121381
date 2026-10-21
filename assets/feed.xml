@@ -17,6 +17,20 @@
       <category>情感电台</category>
     </item>
     <item>
+      <title>CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）</title>
+      <link>https://www.040426.xyz/posts/Xnrbx</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/Xnrbx</guid>
+      <pubDate>Wed, 21 Oct 2026 08:10:12 +0000</pubDate>
+      <description>本文深入探讨了现代深度生成模型的理论基础和实现方法。文章首先通过将工程力学体系与深度生成模型进行类比，帮助读者建立直观的物理与力学映射，从而更好地理解模型中的统计学术语。接着，文章回顾了判别式模型与深度网络的基础机制，重点介绍了自注意力机制、Transformer、非线性激活层和交叉熵损失等概念。随后，文章详细阐述了生成模型的三个核心能力：生成采样、密度估计和无监督表征学习，并探讨了如何表示分布和学习参数这两个核心理论问题。文章进一步介绍了KL散度及其在衡量模型分布与真实数据分布之间的接近程度方面的应用，并从最小化KL散度到极大似然估计（MLE）进行了推导。此外，文章还介绍了蒙特卡洛估计、经验似然、经验风险、过拟合、偏差-方差权衡等概念，并探讨了如何抑制过拟合和构建条件生成模型。最后，文章对比了自回归模型、隐变量模型和生成对抗网络（GANs）等不同生成模型的技术路线和优缺点，为读者提供了全景总结。</description>
+      <category>课程笔记</category>
+      <category>大学</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>CityU</category>
+      <category>笔记</category>
+      <category>CS5187</category>
+    </item>
+    <item>
       <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
       <link>https://www.040426.xyz/posts/jFewE</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
@@ -257,19 +271,6 @@
       <category>CityU</category>
       <category>笔记</category>
       <category>DSC6007</category>
-    </item>
-    <item>
-      <title>你究竟想成为怎样的自己？</title>
-      <link>https://www.040426.xyz/posts/voImC</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/voImC</guid>
-      <pubDate>Wed, 16 Sep 2026 14:54:40 +0000</pubDate>
-      <description>《I AM GLORIA》标志着邓紫棋“寻找自我”的旅程，而《自由的你》则代表了她创作视角的重大转变，将音乐焦点从“我”转向“你”，鼓励听众成为自由的个体。这首歌不仅探讨个人选择，还引发对AI时代人类自由意志可能被AI左右这一问题的思考。《自由的你》是新专辑的先行曲，也是邓紫棋全新创作阶段的序章，引领听众思考在AI时代如何成为自己想要的模样。从《I AM GLORIA》的“我”到《自由的你》的“你”，邓紫棋展现了音乐上的新突破，同时彰显她对时代的深刻洞察和她在音乐界不可动摇的地位。</description>
-      <author>Sony Music Hong Kong</author>
-      <category>碎笔</category>
-      <category>音乐</category>
-      <category>音乐</category>
-      <category>情感电台</category>
-      <category>随笔</category>
     </item>
   </channel>
 </rss>
