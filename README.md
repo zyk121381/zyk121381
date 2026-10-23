@@ -98,6 +98,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 > **Accessible from Mainland China only.**
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-10-23 · [CS 5489 Lecture7: 从EM算法到线性降维与SVD：统计推断与低秩几何重构的全景](https://www.040426.xyz/posts/gbtHa)
 - 2026-10-20 · [CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）](https://www.040426.xyz/posts/Xnrbx)
 - 2026-10-16 · [【HNU100】千年学府育英才 经世致用谱新篇](https://www.040426.xyz/posts/MWSnO)
 - 2026-10-16 · [【HNU100】庆祝湖南大学建校100周年大会隆重举行](https://www.040426.xyz/posts/jFewE)
@@ -106,8 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-10-14 · [DSC 6007 Lecture5: 马尔可夫决策过程的精确求解算法（Solving MDPs）](https://www.040426.xyz/posts/pQXky)
 - 2026-10-10 · [CS 5491 Lecture5: 从线性规划（LP）到整数规划的分支定界法（Branch and Bound）](https://www.040426.xyz/posts/AeMs0)
 - 2026-10-09 · [CS 5489 Lecture5: 线性回归与正则化进阶：从 OLS 到 Ridge 与 Lasso 的数学旅程](https://www.040426.xyz/posts/T4I1I)
-- 2026-09-29 · [CS 5187 Lecture6: 从三维立体视觉几何重建到深度学习与 Transformer 架构](https://www.040426.xyz/posts/6XWg5)
-- 2026-09-29 · [CS 5187 Lecture5: 图像对齐、RANSAC 鲁棒估计与相机几何模型](https://www.040426.xyz/posts/rvDCL)<!-- BLOG-POST-LIST:END -->
+- 2026-09-29 · [CS 5187 Lecture6: 从三维立体视觉几何重建到深度学习与 Transformer 架构](https://www.040426.xyz/posts/6XWg5)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
