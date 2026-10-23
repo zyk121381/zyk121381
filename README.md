@@ -1,10 +1,9 @@
-<p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
+<!--p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Valerian&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
-</p>
+</p-->
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=👋 Hi there, I'm Valerian;Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
 </p>
 
 <!--p align="center">
@@ -96,11 +95,12 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - **Keeping what exists in shape** — fixing bugs and smoothing out the rough edges of what I've already shipped.
 
 ## 📝 Latest 10 Posts
+> **Accessible from Mainland China only.**
 
 <!-- BLOG-POST-LIST:START -->
 - 2026-10-20 · [CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）](https://www.040426.xyz/posts/Xnrbx)
-- 2026-10-16 · [【HNU100】庆祝湖南大学建校100周年大会隆重举行](https://www.040426.xyz/posts/jFewE)
 - 2026-10-16 · [【HNU100】千年学府育英才 经世致用谱新篇](https://www.040426.xyz/posts/MWSnO)
+- 2026-10-16 · [【HNU100】庆祝湖南大学建校100周年大会隆重举行](https://www.040426.xyz/posts/jFewE)
 - 2026-10-16 · [CS 5489 Lecture6: 鲁棒非线性回归与聚类算法](https://www.040426.xyz/posts/izFDZ)
 - 2026-10-15 · [CS 5491 Lecture6: 最优化建模与凸优化理论及梯度下降](https://www.040426.xyz/posts/PuGN3)
 - 2026-10-14 · [DSC 6007 Lecture5: 马尔可夫决策过程的精确求解算法（Solving MDPs）](https://www.040426.xyz/posts/pQXky)
@@ -131,5 +131,5 @@ If anything here saved you some time, you can [buy me a coffee](https://xa.2xrr.
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=I linger here, awaiting your return&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
