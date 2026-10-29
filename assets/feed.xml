@@ -17,14 +17,28 @@
       <category>情感电台</category>
     </item>
     <item>
+      <title>CS 5187 Lecture8: Quiz2 &amp; 似然估计、信息熵压缩与变分自编码器（VAE）全推导</title>
+      <link>https://www.040426.xyz/posts/KsT5m</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/KsT5m</guid>
+      <pubDate>Thu, 29 Oct 2026 15:01:15 +0000</pubDate>
+      <description>本文深入探讨了机器学习中的数学原理和算法，分为两部分。第一部分详细解析了课堂测验中的核心概念，包括似然、KL散度和证据下界，并通过数学推导和物理直观解释了这些概念的本质。第二部分则系统地推导了隐变量模型和变分自编码器，涵盖了变分推断、随机变分推断、均摊推断以及重参数化技巧，并从工程力学的角度对比了隐空间映射和广义坐标系的概念。文章通过具体的数学推导和实例分析，阐述了优化目标、信息编码压缩、证据下界提升以及变分自编码器的目标函数分解等关键点，并揭示了梯度回传中的挑战和重参数化技巧的重要性。</description>
+      <category>大学</category>
+      <category>CityU</category>
+      <category>课程笔记</category>
+      <category>学术</category>
+      <category>CityU</category>
+      <category>笔记</category>
+      <category>CS5187</category>
+    </item>
+    <item>
       <title>CS 5489 Lecture7: 从EM算法到线性降维与SVD：统计推断与低秩几何重构的全景</title>
       <link>https://www.040426.xyz/posts/gbtHa</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/gbtHa</guid>
       <pubDate>Fri, 23 Oct 2026 17:01:45 +0000</pubDate>
       <description>本讲义深入探讨了机器学习中无监督学习模块的核心理论，包括期望极大化算法（EM）和线性降维与奇异值分解（SVD）。EM算法通过变分下界和琴生不等式，结合力学中的虚位移原理和最小势能原理，实现了对隐变量概率推断的优化。数据投影、基变换和SVD低秩近似与连续介质力学中的应力/应变张量主轴化、结构振动中的主模态正交分解以及刚体动力学中的主转动惯量与主轴分解具有数学上的等价性。讲义通过代数证明、几何类比和物理直观的结合，构建了一个无跳步、全推导的无监督学习认知体系。重点介绍了EM算法的原理、GMM模型、变分自由能（ELBO）的推导、EM算法的双步迭代过程，以及KL散度和坐标上升视角下的理论闭环。此外，还讨论了降维的物理意义、降维与数据压缩的区别、线性降维的数学框架、低秩矩阵近似、交替最小二乘法（ALS）的推导，以及奇异值分解（SVD）的基础数学理论、紧凑SVD、截断SVD、Eckart-Young-Mirsky定理和基于SVD的坐标投影、重构流程。最后，介绍了降维维度选择策略和工程实践准则。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -36,9 +50,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/Xnrbx</guid>
       <pubDate>Tue, 20 Oct 2026 11:10:12 +0000</pubDate>
       <description>本文深入探讨了现代深度生成模型的理论基础和实现方法。文章首先通过将工程力学体系与深度生成模型进行类比，帮助读者建立直观的物理与力学映射，从而更好地理解模型中的统计学术语。接着，文章回顾了判别式模型与深度网络的基础机制，重点介绍了自注意力机制、Transformer、非线性激活层和交叉熵损失等概念。随后，文章详细阐述了生成模型的三个核心能力：生成采样、密度估计和无监督表征学习，并探讨了如何表示分布和学习参数这两个核心理论问题。文章进一步介绍了KL散度及其在衡量模型分布与真实数据分布之间的接近程度方面的应用，并从最小化KL散度到极大似然估计（MLE）进行了推导。此外，文章还介绍了蒙特卡洛估计、经验似然、经验风险、过拟合、偏差-方差权衡等概念，并探讨了如何抑制过拟合和构建条件生成模型。最后，文章对比了自回归模型、隐变量模型和生成对抗网络（GANs）等不同生成模型的技术路线和优缺点，为读者提供了全景总结。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -68,9 +82,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/izFDZ</guid>
       <pubDate>Fri, 16 Oct 2026 04:11:43 +0000</pubDate>
       <description>本文详细介绍了鲁棒回归与非线性回归、无监督学习与聚类算法的相关内容。首先，文章阐述了回归任务的基础与问题，特别是异常值对模型性能的影响，并介绍了鲁棒回归中的RANSAC算法及其理论采样轮数T的推导。接着，文章探讨了非线性回归的拓展，包括特征映射与多项式回归、核技巧和核岭回归（KRR），以及支持向量回归（SVR）的epsilon-不敏感损失函数和拉格朗日对偶全推导。在无监督学习部分，文章概述了无监督学习全景，包括密度估计、聚类、降维和流形嵌入等核心任务，并深入分析了K-Means聚类算法、高斯混合模型（GMM）与EM算法，以及GMM到K-Means的退化推导。最后，文章对比了K-Means聚类和高斯混合模型（GMM）的优缺点，为读者提供了理论知识和工程实践要点。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -82,9 +96,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/PuGN3</guid>
       <pubDate>Thu, 15 Oct 2026 04:28:27 +0000</pubDate>
       <description>本文深入探讨了从工程力学跨考到人工智能过程中，最优化理论与经典固体力学的联系，并详细介绍了最优化问题的数学建模框架、凸集与凸函数理论、梯度下降算法及其收敛动力学。文章首先阐述了最优化问题在机器学习与人工智能中的核心地位，并介绍了通用最优化数学模型的三要素：决策变量、可行域和目标函数。接着，详细分析了线性规划在通用模型下的特化，以及变量定义域类型和可行解、最优解与最优目标值的概念。随后，文章探讨了最优解的存在性判定，包括最优解存在且可达、无下界和不可行三种情形。此外，文章还介绍了极大化与极小化的对偶转换关系，并举例说明了其在不同领域的应用。在模块二，文章通过案例实战展示了经典优化问题建模与求解方法，包括旅行商问题、八皇后问题和过原点线性拟合。在模块三，深入探讨了凸集与凸函数理论，包括凸组合、凸集和凸函数的定义，以及凸性判别法。在模块四，讨论了最优点性质，包括局部最优与全局最优、存在性与唯一性。最后，文章详细介绍了梯度下降法，包括算法迭代步骤、步长动力学分析、收敛、震荡与发散以及算法终止准则，并探讨了潜在陷阱。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -96,9 +110,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/pQXky</guid>
       <pubDate>Wed, 14 Oct 2026 09:53:23 +0000</pubDate>
       <description>本文详细探讨了马尔可夫决策过程（MDP）的求解方法，包括价值迭代法（VI）、策略迭代法（PI）和线性规划法（LP）。首先介绍了MDP的基本概念和五元组定义，包括状态空间、动作空间、状态转移概率、奖励函数和折现因子。接着，深入阐述了贝尔曼最优方程和策略的概念，并介绍了策略贝尔曼算子和贝尔曼最优算子。然后，详细分析了价值迭代法，包括其算法流程、压缩映射定理、误差界和策略终止判定。接着，介绍了策略迭代法，包括其算法结构、策略评估、策略提升和策略提升定理。此外，还探讨了线性规划法，包括其核心建模直觉、标准型、Python CVXPY 工业求解范例。最后，对三种经典算法进行了全方位横向对比，并进行了最短路径问题（SPP）求解专题演练。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -110,9 +124,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/AeMs0</guid>
       <pubDate>Sat, 10 Oct 2026 10:23:01 +0000</pubDate>
       <description>本文全面介绍了人工智能中的决策与优化，重点阐述了线性规划（LP）和整数规划（IP）的核心概念、建模方法、求解原理和算法。文章首先从状态空间搜索和约束满足问题出发，探讨了问题从可行性到最优性的转变，引入了数学优化和线性规划的概念。接着，详细介绍了线性规划的核心要素，包括决策变量、线性目标函数和线性约束，以及其几何意义和求解原理。通过经典食谱问题，展示了线性规划的建模过程和标准不等式矩阵形式的转化。文章还介绍了线性规划的几何解释和代数解法，包括约束与可行域的几何本质、等费用线和梯度向量、线性规划基本定理以及各顶点的求解过程。此外，文章探讨了线性规划可能出现的三种求解结果，并对比了单纯形法和内点法。在整数规划部分，文章分析了离散决策的需求、规划问题的分类以及为什么不能简单进行“四舍五入”。最后，详细介绍了LP松弛和界限理论，以及分支定界算法的核心概念、分支规则、节点剪枝机制和经典案例的完整分支搜索树推导过程。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -124,9 +138,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/T4I1I</guid>
       <pubDate>Fri, 09 Oct 2026 04:55:16 +0000</pubDate>
       <description>本文详细探讨了线性回归（Linear Regression）的数学原理和实现方法，从普通最小二乘法（OLS）出发，逐步引入正则化策略以解决数值与工程挑战。文章首先介绍了回归任务的基本概念，并通过一维简单线性回归推导出解析解，进而扩展到多维特征。接着，详细阐述了正则化策略，包括岭回归（Ridge Regression）和套索回归（Lasso Regression），并从贝叶斯视角分析了这些方法的理论基础。此外，文章还探讨了正交设计下的解耦与收缩机理，以及OLS、Ridge和Lasso的全景横向对比。最后，通过波士顿房价预测案例，对正则化路径、超参数选择、回归系数的解释等问题进行了深入分析，并展望了非线性与鲁棒回归的发展方向。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -138,9 +152,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/6XWg5</guid>
       <pubDate>Tue, 29 Sep 2026 10:05:09 +0000</pubDate>
       <description>本文深入探讨了计算机视觉领域的多个关键概念和技术。首先介绍了双目立体视觉的原理，包括三角测量、几何成像原理、极线几何与视差推导、立体匹配算法和能量最小化框架。接着，讨论了多视图立体视觉，包括多视角的优势与基线博弈、平面扫描立体视觉和多基线立体视觉。文章还介绍了计算机视觉的范式转移，从传统图像处理到深度学习的演进，并详细解释了语义鸿沟、欠定问题与流形假说。此外，文章涵盖了线性分类器的三重视角、损失函数与Softmax交叉熵详解、梯度下降法与优化、多层感知机与非线性激活函数、序列建模与循环神经网络（RNN）、卷积神经网络（CNN）以及注意力机制与Transformer。最后，文章以全篇知识体系横向总结对照，对各种架构和方法的核心处理单元、几何/结构先验、空间/记忆复杂度、主要缺陷/挑战和适用场景进行了详细比较。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -152,9 +166,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/rvDCL</guid>
       <pubDate>Tue, 29 Sep 2026 09:14:33 +0000</pubDate>
       <description>本文详细介绍了计算机视觉中的空间几何变换与成像投影模型，涵盖了图像变换参数估计、鲁棒估计与RANSAC算法、相机成像与射影几何等内容。首先，文章阐述了图像变换参数估计，包括平移、仿射变换和透视单应性变换，并推导了无约束与有约束最小二乘法。接着，介绍了鲁棒估计与RANSAC算法，用于解决真实匹配中包含大量噪声外点时的参数鲁棒拟合，并严格推导了采样轮数公式。然后，探讨了相机成像与射影几何，从针孔成像、透镜物理光学推导出三维世界点到二维像素平面的投影矩阵，并讨论了透视失真与镜头畸变。最后，文章通过实例和公式详细解释了各种几何变换和投影模型的原理和应用。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -166,9 +180,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/B9pj2</guid>
       <pubDate>Sat, 26 Sep 2026 10:57:07 +0000</pubDate>
       <description>本文深入探讨了多智能体对抗与博弈（Multi-Agent Adversarial Search &amp; Games with Chance）的核心概念和算法。文章首先介绍了从单智能体搜索到多智能体交互的转变，并详细阐述了合作、竞争和混合智能体交互的模型。接着，文章回顾了人工智能在棋类博弈中的发展历程，包括西洋跳棋、国际象棋和围棋等，并介绍了不完全信息博弈的实例。随后，文章从博弈论的角度，详细解释了确定性完全信息零和博弈（如极大极小搜索、α-β剪枝和深度截断评估）和含概率与非完美理性博弈（如期望极大搜索、机会节点剪枝界限和冯·诺依曼效用理论）的相关内容。此外，文章还探讨了博弈分类的核心维度，包括确定性机制、参与方数量、利益冲突性和信息可见度。在确定性双人博弈的形式化建模方面，文章详细介绍了状态集合、玩家集合、动作集合、状态转移函数、终止状态测试和终止效用函数等概念。在极大极小搜索（Minimax Search）模块中，文章深入探讨了状态价值与力学极值类比、算法实现架构、经典三叉树手工计算全流程演练、理性假设与“诱饵陷阱”以及Minimax复杂度瓶颈与维度灾难等问题。在α-β剪枝算法（α-β Pruning）模块中，文章详细介绍了核心数学思想、剪枝准则的形式化推导、算法伪代码与参数传递机制、完整跟踪算例以及节点扩展顺序与复杂度跃迁等内容。在资源受限下的现实搜索与启发式评估模块中，文章介绍了深度截断搜索、启发式评估函数的构造与地平线效应、随时算法（Anytime Algorithm）和确定性博弈搜索算法横向全景对比等内容。在含概率博弈与期望极大搜索（Expectimax Search）模块中，文章从极端最坏情况走向平均情况思维、概率与数学期望基础、期望极大搜索机制与算法实现、典型算例推导、Expectimax 能够像 Minimax 那样剪枝吗？以及混合智能体博弈等内容进行了详细阐述。在建模假设的风险（Optimism vs. Pessimism）模块中，文章探讨了最大期望效用准则（Principle of MEU）、效用单调变换的不变性断裂、冯·诺依曼-摩根斯坦效用定理（VNM Utility Theorem）以及效用设计与系统对齐（Reward Hacking 警告）等内容。最后，文章通过核心知识点复盘自测Q&amp;A的形式，对全文内容进行了总结和回顾。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -180,9 +194,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/n0dqu</guid>
       <pubDate>Sat, 26 Sep 2026 10:07:04 +0000</pubDate>
       <description>本课程笔记涵盖了从标签修正算法到马尔可夫决策过程（MDP）与贝尔曼最优理论的整个知识体系。首先回顾了确定性图搜索中的标签修正方法，包括SLF和LLL策略，并深入探讨了A*算法的数学内涵和智能初始化。随后，课程转向强化学习的基础概念，阐述了强化学习的交互闭环、与传统机器学习的差异、系统的五大组成要素，以及马尔可夫性和可观测性。接着，课程通过阶梯式推进，从马尔可夫链到马尔可夫奖励过程，再到马尔可夫决策过程，逐步深入。重点介绍了马尔可夫链的数学定义、状态转移矩阵的代数性质、马尔可夫奖励过程的定义、回报与折现因子的解释、状态价值函数以及贝尔曼期望方程。最后，课程讨论了最优性条件与贝尔曼算子理论，包括从有限时域DP到无限时域的桥梁、时间归一化技巧、贝尔曼算子的定义和两大基础引理，以及核心命题的证明。此外，还探讨了策略最优性的充要条件定理和最优策略的非唯一性与随机化策略的等价性。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -194,9 +208,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/fUk9r</guid>
       <pubDate>Tue, 22 Sep 2026 12:35:00 +0000</pubDate>
       <description>文章深入探讨了计算机视觉领域的局部特征描述子及其相关技术，涵盖了从课前温故到尺度空间，再到特征匹配与度量评估的整个过程。首先，文章回顾了结构张量和尺度空间的概念，并阐述了Harris角点检测和二阶矩矩阵在图像几何中的应用。接着，文章讨论了特征值分解与等高线椭圆的几何解释，以及尺度不变性的重要性。随后，文章详细介绍了特征匹配的标准流水线，包括检测、描述和匹配三个阶段。文章进一步探讨了特征描述子的核心矛盾，即不变性与区分度之间的平衡，并介绍了几何变换和光度变换的分类。文章还详细介绍了几种经典特征描述子，如MOPS、SIFT、HOG和ORB等，并分析了它们的数学推导和实现细节。此外，文章还讨论了图像几何变换与单应性，以及图像扭曲与重采样插值的技术。最后，文章通过实验实战和代码解析，展示了如何在实际应用中实现这些技术。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -208,9 +222,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/Z30MC</guid>
       <pubDate>Sun, 20 Sep 2026 15:11:23 +0000</pubDate>
       <description>文章主要探讨了凸优化理论及其在支持向量机（SVM）中的应用，并介绍了核方法和序列最小优化算法（SMO）。文章首先介绍了凸优化理论的基础，包括凸集和凸函数的定义、一阶和二阶充要条件，以及局部最优即全局最优的严格数学证明。接着，文章讨论了约束优化问题与拉格朗日对偶性，包括标准优化问题定义、拉格朗日函数和对偶函数的定义，以及弱对偶性、强对偶性和KKT条件的推导和解释。文章还详细分析了软间隔SVM的对偶求解过程，包括原问题与拉格朗日函数的构建、变量消去与对偶形式展开，以及决策函数表达和偏置项的显式求解。此外，文章还介绍了核方法，特别是核技巧、多项式核函数和高斯核函数（RBF核）的推导和物理意义，并讨论了SMO算法的核心逻辑及其在SVM优化中的优势。最后，文章通过对比矩阵和损失函数视角解读了主流分类算法的特点，并引用了“没有免费午餐”定理，强调了归纳偏置与现实数据分布特性的契合重要性。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -222,9 +236,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/58RQj</guid>
       <pubDate>Fri, 18 Sep 2026 14:44:08 +0000</pubDate>
       <description>本节课的核心内容围绕判别式模型的参数优化展开，介绍了凸优化数学基础，并深入剖析了梯度下降法及其随机变体，最终引出基于几何准则构建的经典线性分类器——支持向量机（SVM）。课程首先回顾了统计机器学习中的分类算法两大范式：生成式分类器和判别式分类器，并详细解释了两种模型的特点和典型算法。接着，课程阐述了机器学习中的优化问题，重点介绍了凸优化理论，包括凸集、凸函数的定义和性质，以及凸函数局部最优解必定是全局最优解的核心定理。随后，课程对比了梯度下降法、随机梯度下降法和批量梯度下降法，并分析了它们的优缺点和适用场景。在逻辑回归部分，课程从概率视角推导了逻辑回归的梯度，并对比了不同标签编码系统下的梯度形式。在SVM部分，课程介绍了最大间隔准则和原始问题，并详细阐述了硬间隔SVM和软间隔SVM的数学构建过程。最后，课程对比了Hinge Loss和损失函数，并总结了逻辑回归和支持向量机的本质区别。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -236,9 +250,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/311WX</guid>
       <pubDate>Thu, 17 Sep 2026 14:43:00 +0000</pubDate>
       <description>本文探讨了力学直觉与强化学习核心概念的映射，将牛顿力学、分析力学和结构振动控制中的状态方程和变分极值问题与强化学习中的动态规划进行对应，包括广义坐标对应状态、主动外加阻尼力对应控制输入、随机风载荷对应随机扰动等。文章详细介绍了系统动力学与约束，包括离散时间动态系统的状态转移方程、成本函数、状态空间和控制集合等。接着，文章阐述了动态规划算法的核心定理和倒序递推方法，通过贝尔曼最优化原理和贝尔曼倒序方程推导出最优策略。最后，文章详细展示了从k=3到k=0的解题步骤和推导过程，并构建了策略执行树和全概率验证，证明了动态规划的正确性。此外，文章还从工程力学到强化学习进行了跨专业思考，探讨了知识迁移和模型演进。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
@@ -250,23 +264,9 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/58sQj</guid>
       <pubDate>Thu, 17 Sep 2026 13:23:04 +0000</pubDate>
       <description>本文详细介绍了三种经典图搜索算法：迭代加深深度优先搜索（IDDFS）、一致代价搜索（UCS）和A*搜索，并分析了它们在给定有向加权图从起始状态S到达目标状态G时的访问顺序、解路径和路径长度。文章首先解释了启发式函数h(n)、实际代价g(n)以及“生成”与“访问”等核心概念，然后分别对三种算法进行了通俗的直觉解释和详细解题推导。对于IDDFS，文章展示了其访问顺序和解路径，并解释了其如何通过逐步增加深度限制来探索图。UCS算法通过考虑历史实际代价g(n)来搜索路径，而A*搜索则结合了实际代价和预估剩余路程h(n)来评估节点。文章还对比了三种算法的优缺点和效率，并给出了一组满足约束条件的课程排课方案，包括变量集、值域集和约束条件，以及相应的约束图和可行解。</description>
+      <category>大学</category>
       <category>CityU</category>
       <category>课程笔记</category>
-      <category>大学</category>
-      <category>学术</category>
-      <category>CityU</category>
-      <category>笔记</category>
-      <category>CS5491</category>
-    </item>
-    <item>
-      <title>CS 5491 Lecture3: 约束满足问题（Constraint Satisfaction Problems, CSP）</title>
-      <link>https://www.040426.xyz/posts/hfjBT</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/hfjBT</guid>
-      <pubDate>Thu, 17 Sep 2026 11:58:13 +0000</pubDate>
-      <description>本文探讨了从工程力学跨考至人工智能的研究生在解决约束满足问题（CSP）时，如何通过力学系统的比喻建立宏观直觉。文章首先对比了传统搜索算法和CSP问题，指出CSP更像是静力学平衡与结构相容性问题，关注最终系统的平衡构型。接着，文章详细介绍了CSP的形式化定义与建模，包括数学三元组、经典案例如澳大利亚地图着色问题和N皇后问题，以及CSP的分类范式。随后，文章深入探讨了朴素搜索与回溯算法，分析了朴素搜索的失效原因，并介绍了回溯算法的核心改良，如固定单变量展开和增量约束检查。此外，文章还介绍了回溯搜索的启发式优化策略，包括排序、过滤剪枝和结构分解。最后，文章讨论了利用问题拓扑结构加速求解的方法，如独立子问题分解、树状结构CSP和环割集调节法，并总结了学习CSP的关键点和复习清单。</description>
-      <category>CityU</category>
-      <category>课程笔记</category>
-      <category>大学</category>
       <category>学术</category>
       <category>CityU</category>
       <category>笔记</category>
