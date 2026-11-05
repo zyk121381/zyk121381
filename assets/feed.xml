@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5491 Lecture8: 从无模型策略评估到 Q-Learning 与异策略控制</title>
+      <link>https://www.040426.xyz/posts/wGqf3</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/wGqf3</guid>
+      <pubDate>Thu, 05 Nov 2026 14:55:55 +0000</pubDate>
+      <description>本讲义详细阐述了香港城市大学研究生课程CS5491 Artificial Intelligence中强化学习的基础核心模块。文章首先对比了马尔可夫决策过程（MDP）与强化学习中的环境差异，指出强化学习环境中的系统动力学方程是未知的，从而引出基于模型、蒙特卡洛、时序差分和动作价值控制的理论构建。文章详细介绍了强化学习的基本框架与环境交互，区分了规划与学习的本质差异，并从工程力学和控制理论的角度类比，解释了强化学习中的智能体-环境交互闭环。此外，文章深入探讨了即时奖励与状态价值的区别，强调强化学习的目标是最大化期望累积折扣回报。接着，文章详细阐述了被动强化学习中的策略评估与控制分工，并分析了经验模型法、蒙特卡洛法和时序差分法的具体实现。在主动强化学习部分，文章解释了为什么必须学习动作价值而非状态价值，并详细介绍了Q-Learning算法的核心更新法则和探索与利用的博弈。最后，文章对比了强化学习中的核心算法，并从技术路线全景的角度总结了强化学习的发展历程。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5491</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>DSC 6007 Lecture6: 无模型预测理论（蒙特卡洛与时序差分学习）及马尔可夫决策过程优化求解</title>
       <link>https://www.040426.xyz/posts/xDKoS</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/xDKoS</guid>
@@ -258,20 +272,6 @@
       <category>大学</category>
       <category>课程笔记</category>
       <category>CS5187</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5489 Lecture4: 凸优化对偶理论、软间隔支持向量机对偶求解与核方法</title>
-      <link>https://www.040426.xyz/posts/Z30MC</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/Z30MC</guid>
-      <pubDate>Sun, 20 Sep 2026 15:11:23 +0000</pubDate>
-      <description>文章主要探讨了凸优化理论及其在支持向量机（SVM）中的应用，并介绍了核方法和序列最小优化算法（SMO）。文章首先介绍了凸优化理论的基础，包括凸集和凸函数的定义、一阶和二阶充要条件，以及局部最优即全局最优的严格数学证明。接着，文章讨论了约束优化问题与拉格朗日对偶性，包括标准优化问题定义、拉格朗日函数和对偶函数的定义，以及弱对偶性、强对偶性和KKT条件的推导和解释。文章还详细分析了软间隔SVM的对偶求解过程，包括原问题与拉格朗日函数的构建、变量消去与对偶形式展开，以及决策函数表达和偏置项的显式求解。此外，文章还介绍了核方法，特别是核技巧、多项式核函数和高斯核函数（RBF核）的推导和物理意义，并讨论了SMO算法的核心逻辑及其在SVM优化中的优势。最后，文章通过对比矩阵和损失函数视角解读了主流分类算法的特点，并引用了“没有免费午餐”定理，强调了归纳偏置与现实数据分布特性的契合重要性。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5489</category>
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
