@@ -98,16 +98,16 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 > **Accessible from Mainland China only.**
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-04 · [DSC 6007 Lecture6: 无模型预测理论（蒙特卡洛与时序差分学习）及马尔可夫决策过程优化求解](https://www.040426.xyz/posts/xDKoS)
 - 2026-11-03 · [CS 5187 Lecture9: 从连续介质微元形变到概率流：标准化流（Normalizing Flow）模型与架构](https://www.040426.xyz/posts/2BgYS)
 - 2026-10-30 · [CS 5489 Lecture8: 从惯性主轴到高维流形展开：主成分分析 &lpar;PCA&rpar; 与核主成分分析 &lpar;Kernel PCA&rpar;](https://www.040426.xyz/posts/QR4AU)
 - 2026-10-29 · [CS 5491 Lecture7: 从确定性搜索到随机决策：马尔可夫决策过程（MDP）与动态规划算法](https://www.040426.xyz/posts/VMSXp)
 - 2026-10-27 · [CS 5187 Lecture8: Quiz2 &amp; 似然估计、信息熵压缩与变分自编码器（VAE）全推导](https://www.040426.xyz/posts/KsT5m)
 - 2026-10-23 · [CS 5489 Lecture7: 从EM算法到线性降维与SVD：统计推断与低秩几何重构的全景](https://www.040426.xyz/posts/gbtHa)
 - 2026-10-20 · [CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）](https://www.040426.xyz/posts/Xnrbx)
-- 2026-10-16 · [【HNU100】千年学府育英才 经世致用谱新篇](https://www.040426.xyz/posts/MWSnO)
 - 2026-10-16 · [【HNU100】庆祝湖南大学建校100周年大会隆重举行](https://www.040426.xyz/posts/jFewE)
-- 2026-10-16 · [CS 5489 Lecture6: 鲁棒非线性回归与聚类算法](https://www.040426.xyz/posts/izFDZ)
-- 2026-10-15 · [CS 5491 Lecture6: 最优化建模与凸优化理论及梯度下降](https://www.040426.xyz/posts/PuGN3)<!-- BLOG-POST-LIST:END -->
+- 2026-10-16 · [【HNU100】千年学府育英才 经世致用谱新篇](https://www.040426.xyz/posts/MWSnO)
+- 2026-10-16 · [CS 5489 Lecture6: 鲁棒非线性回归与聚类算法](https://www.040426.xyz/posts/izFDZ)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
