@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>DSC 6007 Lecture6: 无模型预测理论（蒙特卡洛与时序差分学习）及马尔可夫决策过程优化求解</title>
+      <link>https://www.040426.xyz/posts/xDKoS</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/xDKoS</guid>
+      <pubDate>Wed, 04 Nov 2026 12:23:08 +0000</pubDate>
+      <description>本文深入探讨了免模型预测在复杂工程与人工智能场景中的应用，重点介绍了蒙特卡洛学习与时序差分学习两大核心支柱。首先，文章阐述了如何将贝尔曼最优方程转化为线性规划问题进行精确求解，包括贝尔曼最优算子与线性规划的数学对偶视角，以及线性规划的标准形式构造。接着，文章详细解析了蒙特卡洛强化学习的基本原理、轨迹采样、首次访问与每次访问蒙特卡洛，并探讨了增量式均值更新与非平稳问题追踪。此外，文章还深入解析了随机逼近方法与Robbins-Monro定理，以及时序差分学习（TD）的原理、误差结构、偏差与方差的权衡，并对动态规划、蒙特卡洛与时序差分进行了全景对比。最后，文章通过一个“大逃杀”生存竞技游戏的案例，详细解析了MDP建模与多算法求解过程，包括状态转移概率与即时奖励的形式化推导、贝尔曼最优方程系统展开与代数消元，以及三种求解算法的对比与计算效率剖析。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CityU</category>
+      <category>DSC6007</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5187 Lecture9: 从连续介质微元形变到概率流：标准化流（Normalizing Flow）模型与架构</title>
       <link>https://www.040426.xyz/posts/2BgYS</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/2BgYS</guid>
@@ -91,20 +105,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
-      <link>https://www.040426.xyz/posts/MWSnO</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>人民日报要闻版</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
       <link>https://www.040426.xyz/posts/jFewE</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>湖南大学融媒体中心</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
+      <link>https://www.040426.xyz/posts/MWSnO</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>人民日报要闻版</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -254,20 +268,6 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/Z30MC</guid>
       <pubDate>Sun, 20 Sep 2026 15:11:23 +0000</pubDate>
       <description>文章主要探讨了凸优化理论及其在支持向量机（SVM）中的应用，并介绍了核方法和序列最小优化算法（SMO）。文章首先介绍了凸优化理论的基础，包括凸集和凸函数的定义、一阶和二阶充要条件，以及局部最优即全局最优的严格数学证明。接着，文章讨论了约束优化问题与拉格朗日对偶性，包括标准优化问题定义、拉格朗日函数和对偶函数的定义，以及弱对偶性、强对偶性和KKT条件的推导和解释。文章还详细分析了软间隔SVM的对偶求解过程，包括原问题与拉格朗日函数的构建、变量消去与对偶形式展开，以及决策函数表达和偏置项的显式求解。此外，文章还介绍了核方法，特别是核技巧、多项式核函数和高斯核函数（RBF核）的推导和物理意义，并讨论了SMO算法的核心逻辑及其在SVM优化中的优势。最后，文章通过对比矩阵和损失函数视角解读了主流分类算法的特点，并引用了“没有免费午餐”定理，强调了归纳偏置与现实数据分布特性的契合重要性。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5489</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5489 Lecture3: 凸优化基础、梯度下降与支持向量机 (SVM)</title>
-      <link>https://www.040426.xyz/posts/58RQj</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/58RQj</guid>
-      <pubDate>Fri, 18 Sep 2026 14:44:08 +0000</pubDate>
-      <description>本节课的核心内容围绕判别式模型的参数优化展开，介绍了凸优化数学基础，并深入剖析了梯度下降法及其随机变体，最终引出基于几何准则构建的经典线性分类器——支持向量机（SVM）。课程首先回顾了统计机器学习中的分类算法两大范式：生成式分类器和判别式分类器，并详细解释了两种模型的特点和典型算法。接着，课程阐述了机器学习中的优化问题，重点介绍了凸优化理论，包括凸集、凸函数的定义和性质，以及凸函数局部最优解必定是全局最优解的核心定理。随后，课程对比了梯度下降法、随机梯度下降法和批量梯度下降法，并分析了它们的优缺点和适用场景。在逻辑回归部分，课程从概率视角推导了逻辑回归的梯度，并对比了不同标签编码系统下的梯度形式。在SVM部分，课程介绍了最大间隔准则和原始问题，并详细阐述了硬间隔SVM和软间隔SVM的数学构建过程。最后，课程对比了Hinge Loss和损失函数，并总结了逻辑回归和支持向量机的本质区别。</description>
       <category>CityU</category>
       <category>大学</category>
       <category>课程笔记</category>
