@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5187 Lecture9: 从连续介质微元形变到概率流：标准化流（Normalizing Flow）模型与架构</title>
+      <link>https://www.040426.xyz/posts/2BgYS</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/2BgYS</guid>
+      <pubDate>Tue, 03 Nov 2026 10:43:28 +0000</pubDate>
+      <description>本文深入探讨了人工智能生成模型中的自回归模型和变分自编码器（VAE）的局限性，并介绍了标准化流（Normalizing Flow）作为一种兼具隐变量特征表示和精确似然评估的数学框架。文章首先回顾了生成模型的核心困境，包括自回归模型缺乏隐空间低维特征表达和VAE因边缘化积分无法直接求解而采用ELBO优化。接着，详细介绍了标准化流的本质，即利用微分同胚和雅可比行列式实现概率密度函数在可逆映射下的质量守恒流动。文章进一步从概率测度变换定理、一维连续随机变量变换定理、高维几何直观、多元变量变换定理等方面进行了推导和解释。此外，还介绍了平面流、NICE、Real-NVP等主流标准化流架构，并分析了其计算效率瓶颈和优势。最后，文章探讨了自回归流与逆自回归流的对称性与蒸馏，以及MintNet和高斯化流等前沿拓展。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5187</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5489 Lecture8: 从惯性主轴到高维流形展开：主成分分析 (PCA) 与核主成分分析 (Kernel PCA)</title>
       <link>https://www.040426.xyz/posts/QR4AU</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/QR4AU</guid>
@@ -77,20 +91,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
-      <link>https://www.040426.xyz/posts/jFewE</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>湖南大学融媒体中心</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
       <link>https://www.040426.xyz/posts/MWSnO</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>人民日报要闻版</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
+      <link>https://www.040426.xyz/posts/jFewE</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>湖南大学融媒体中心</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -259,20 +273,6 @@
       <category>课程笔记</category>
       <category>CS5489</category>
       <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>DSC 6007 Tutorial1: 离散时间随机动态规划</title>
-      <link>https://www.040426.xyz/posts/311WX</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/311WX</guid>
-      <pubDate>Thu, 17 Sep 2026 14:43:00 +0000</pubDate>
-      <description>本文探讨了力学直觉与强化学习核心概念的映射，将牛顿力学、分析力学和结构振动控制中的状态方程和变分极值问题与强化学习中的动态规划进行对应，包括广义坐标对应状态、主动外加阻尼力对应控制输入、随机风载荷对应随机扰动等。文章详细介绍了系统动力学与约束，包括离散时间动态系统的状态转移方程、成本函数、状态空间和控制集合等。接着，文章阐述了动态规划算法的核心定理和倒序递推方法，通过贝尔曼最优化原理和贝尔曼倒序方程推导出最优策略。最后，文章详细展示了从k=3到k=0的解题步骤和推导过程，并构建了策略执行树和全概率验证，证明了动态规划的正确性。此外，文章还从工程力学到强化学习进行了跨专业思考，探讨了知识迁移和模型演进。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CityU</category>
-      <category>DSC6007</category>
       <category>学术</category>
       <category>笔记</category>
     </item>
