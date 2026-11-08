@@ -107,7 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-10-27 · [CS 5187 Lecture8: Quiz2 &amp; 似然估计、信息熵压缩与变分自编码器（VAE）全推导](https://www.040426.xyz/posts/KsT5m)
 - 2026-10-23 · [CS 5489 Lecture7: 从EM算法到线性降维与SVD：统计推断与低秩几何重构的全景](https://www.040426.xyz/posts/gbtHa)
 - 2026-10-20 · [CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）](https://www.040426.xyz/posts/Xnrbx)
-- 2026-10-16 · [【HNU100】庆祝湖南大学建校100周年大会隆重举行](https://www.040426.xyz/posts/jFewE)<!-- BLOG-POST-LIST:END -->
+- 2026-10-16 · [【HNU100】千年学府育英才 经世致用谱新篇](https://www.040426.xyz/posts/MWSnO)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
