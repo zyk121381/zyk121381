@@ -7,6 +7,17 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>给学校GPT套个壳</title>
+      <link>https://www.040426.xyz/posts/RHSe2</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/RHSe2</guid>
+      <pubDate>Sun, 08 Nov 2026 12:00:25 +0000</pubDate>
+      <description>文章主要介绍了作者为了解决学校GPT服务只能网页使用的限制，自己编写了一个网关项目。作者首先分析了学校网页端的运作逻辑，包括获取SSO授权、登录、获取菜单和模型列表等请求。接着，作者将网页登录流程转换为程序登录流程，并缓存token以实现多用户隔离。在处理多轮对话时，作者遇到了状态模型不一致的问题，通过指纹映射解决了对话断裂的问题。此外，作者还解决了请求看起来像脚本发送的问题，并确保token不落入浏览器。最后，作者将脚本制作成产品，包括整站镜像、token安全处理、错误处理、会话清理等，并总结了这个项目的主要难点和已知短板。整个项目已在GitHub开源，适用于将只有网页版的内部服务转换为可调用的接口。</description>
+      <category>CityU</category>
+      <category>建站</category>
+      <category>CityU</category>
+      <category>建站</category>
+    </item>
+    <item>
       <title>CS 5491 Lecture8: 从无模型策略评估到 Q-Learning 与异策略控制</title>
       <link>https://www.040426.xyz/posts/wGqf3</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/wGqf3</guid>
@@ -119,20 +130,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
-      <link>https://www.040426.xyz/posts/MWSnO</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>人民日报要闻版</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
       <link>https://www.040426.xyz/posts/jFewE</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>湖南大学融媒体中心</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
+      <link>https://www.040426.xyz/posts/MWSnO</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>人民日报要闻版</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -259,20 +270,6 @@
       <category>课程笔记</category>
       <category>CityU</category>
       <category>DSC6007</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5187 Lecture4: 局部特征描述、图像匹配与图像几何变换</title>
-      <link>https://www.040426.xyz/posts/fUk9r</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/fUk9r</guid>
-      <pubDate>Tue, 22 Sep 2026 12:35:00 +0000</pubDate>
-      <description>文章深入探讨了计算机视觉领域的局部特征描述子及其相关技术，涵盖了从课前温故到尺度空间，再到特征匹配与度量评估的整个过程。首先，文章回顾了结构张量和尺度空间的概念，并阐述了Harris角点检测和二阶矩矩阵在图像几何中的应用。接着，文章讨论了特征值分解与等高线椭圆的几何解释，以及尺度不变性的重要性。随后，文章详细介绍了特征匹配的标准流水线，包括检测、描述和匹配三个阶段。文章进一步探讨了特征描述子的核心矛盾，即不变性与区分度之间的平衡，并介绍了几何变换和光度变换的分类。文章还详细介绍了几种经典特征描述子，如MOPS、SIFT、HOG和ORB等，并分析了它们的数学推导和实现细节。此外，文章还讨论了图像几何变换与单应性，以及图像扭曲与重采样插值的技术。最后，文章通过实验实战和代码解析，展示了如何在实际应用中实现这些技术。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5187</category>
-      <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
     </item>
