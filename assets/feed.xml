@@ -18,6 +18,20 @@
       <category>建站</category>
     </item>
     <item>
+      <title>CS 5489 Lecture9: 从感知机、多层网络到计算图反向传播与卷积网络数学本质</title>
+      <link>https://www.040426.xyz/posts/kAJKG</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/kAJKG</guid>
+      <pubDate>Fri, 06 Nov 2026 08:51:17 +0000</pubDate>
+      <description>本文系统介绍深度学习与神经网络基础：从生物神经元抽象、技术演进到感知机的几何判定、损失与收敛理论；说明MLP借助非线性激活解决异或问题，并涵盖损失函数、泛化与通用逼近定理。随后阐释计算图、反向传播、VJP与残差连接机制，重点分析CNN的局部连接、权重共享、尺寸计算及其与LTI系统、离散卷积和互相关的数学关系。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5489</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5491 Lecture8: 从无模型策略评估到 Q-Learning 与异策略控制</title>
       <link>https://www.040426.xyz/posts/wGqf3</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/wGqf3</guid>
@@ -130,20 +144,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
-      <link>https://www.040426.xyz/posts/jFewE</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>湖南大学融媒体中心</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
       <link>https://www.040426.xyz/posts/MWSnO</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>人民日报要闻版</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
+      <link>https://www.040426.xyz/posts/jFewE</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>湖南大学融媒体中心</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -256,20 +270,6 @@
       <category>课程笔记</category>
       <category>CS5491</category>
       <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>DSC 6007 Lecture4: 从标签修正到马尔可夫决策过程（MDP）与贝尔曼最优理论</title>
-      <link>https://www.040426.xyz/posts/n0dqu</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/n0dqu</guid>
-      <pubDate>Sat, 26 Sep 2026 10:07:04 +0000</pubDate>
-      <description>本课程笔记涵盖了从标签修正算法到马尔可夫决策过程（MDP）与贝尔曼最优理论的整个知识体系。首先回顾了确定性图搜索中的标签修正方法，包括SLF和LLL策略，并深入探讨了A*算法的数学内涵和智能初始化。随后，课程转向强化学习的基础概念，阐述了强化学习的交互闭环、与传统机器学习的差异、系统的五大组成要素，以及马尔可夫性和可观测性。接着，课程通过阶梯式推进，从马尔可夫链到马尔可夫奖励过程，再到马尔可夫决策过程，逐步深入。重点介绍了马尔可夫链的数学定义、状态转移矩阵的代数性质、马尔可夫奖励过程的定义、回报与折现因子的解释、状态价值函数以及贝尔曼期望方程。最后，课程讨论了最优性条件与贝尔曼算子理论，包括从有限时域DP到无限时域的桥梁、时间归一化技巧、贝尔曼算子的定义和两大基础引理，以及核心命题的证明。此外，还探讨了策略最优性的充要条件定理和最优策略的非唯一性与随机化策略的等价性。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CityU</category>
-      <category>DSC6007</category>
       <category>学术</category>
       <category>笔记</category>
     </item>
