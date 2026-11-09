@@ -99,6 +99,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 
 <!-- BLOG-POST-LIST:START -->
 - 2026-11-08 · [给学校GPT套个壳](https://www.040426.xyz/posts/RHSe2)
+- 2026-11-06 · [CS 5489 Lecture9: 从感知机、多层网络到计算图反向传播与卷积网络数学本质](https://www.040426.xyz/posts/kAJKG)
 - 2026-11-05 · [CS 5491 Lecture8: 从无模型策略评估到 Q-Learning 与异策略控制](https://www.040426.xyz/posts/wGqf3)
 - 2026-11-04 · [DSC 6007 Lecture6: 无模型预测理论（蒙特卡洛与时序差分学习）及马尔可夫决策过程优化求解](https://www.040426.xyz/posts/xDKoS)
 - 2026-11-03 · [CS 5187 Lecture9: 从连续介质微元形变到概率流：标准化流（Normalizing Flow）模型与架构](https://www.040426.xyz/posts/2BgYS)
@@ -106,8 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-10-29 · [CS 5491 Lecture7: 从确定性搜索到随机决策：马尔可夫决策过程（MDP）与动态规划算法](https://www.040426.xyz/posts/VMSXp)
 - 2026-10-27 · [CS 5187 Lecture8: Quiz2 &amp; 似然估计、信息熵压缩与变分自编码器（VAE）全推导](https://www.040426.xyz/posts/KsT5m)
 - 2026-10-23 · [CS 5489 Lecture7: 从EM算法到线性降维与SVD：统计推断与低秩几何重构的全景](https://www.040426.xyz/posts/gbtHa)
-- 2026-10-20 · [CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）](https://www.040426.xyz/posts/Xnrbx)
-- 2026-10-16 · [【HNU100】庆祝湖南大学建校100周年大会隆重举行](https://www.040426.xyz/posts/jFewE)<!-- BLOG-POST-LIST:END -->
+- 2026-10-20 · [CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）](https://www.040426.xyz/posts/Xnrbx)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
