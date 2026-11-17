@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5491 Lecture9: 近似 Q-Learning 与概率论基础复习（贝叶斯网络前导）</title>
+      <link>https://www.040426.xyz/posts/RHle2</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/RHle2</guid>
+      <pubDate>Thu, 12 Nov 2026 11:24:49 +0000</pubDate>
+      <description>讲义系统梳理近似Q-Learning与概率推理基础：通过线性特征和共享权重缓解表格法的维度灾难，以TD误差和半梯度更新实现跨状态泛化，并分析泛化干扰及“死亡三元组”稳定性风险；同时复习随机变量、联合分布、边缘化、条件概率、链式法则和贝叶斯更新，并以自动驾驶算例演示近似Q-Learning参数迭代。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5491</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>DSC 6007 Lecture9: 策略梯度（Policy Gradient）与演员-评论家（Actor-Critic）算法全景解析</title>
       <link>https://www.040426.xyz/posts/DcVP7</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/DcVP7</guid>
@@ -200,20 +214,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
-      <link>https://www.040426.xyz/posts/jFewE</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>湖南大学融媒体中心</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
       <link>https://www.040426.xyz/posts/MWSnO</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>人民日报要闻版</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
+      <link>https://www.040426.xyz/posts/jFewE</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>湖南大学融媒体中心</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -256,20 +270,6 @@
       <category>课程笔记</category>
       <category>CityU</category>
       <category>DSC6007</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5491 Lecture5: 从线性规划（LP）到整数规划的分支定界法（Branch and Bound）</title>
-      <link>https://www.040426.xyz/posts/AeMs0</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/AeMs0</guid>
-      <pubDate>Sat, 10 Oct 2026 10:23:01 +0000</pubDate>
-      <description>本文全面介绍了人工智能中的决策与优化，重点阐述了线性规划（LP）和整数规划（IP）的核心概念、建模方法、求解原理和算法。文章首先从状态空间搜索和约束满足问题出发，探讨了问题从可行性到最优性的转变，引入了数学优化和线性规划的概念。接着，详细介绍了线性规划的核心要素，包括决策变量、线性目标函数和线性约束，以及其几何意义和求解原理。通过经典食谱问题，展示了线性规划的建模过程和标准不等式矩阵形式的转化。文章还介绍了线性规划的几何解释和代数解法，包括约束与可行域的几何本质、等费用线和梯度向量、线性规划基本定理以及各顶点的求解过程。此外，文章探讨了线性规划可能出现的三种求解结果，并对比了单纯形法和内点法。在整数规划部分，文章分析了离散决策的需求、规划问题的分类以及为什么不能简单进行“四舍五入”。最后，详细介绍了LP松弛和界限理论，以及分支定界算法的核心概念、分支规则、节点剪枝机制和经典案例的完整分支搜索树推导过程。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5491</category>
-      <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
     </item>
