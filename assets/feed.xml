@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5489 Lecture10: 深度神经网络优化、正则化与工程训练实战全解</title>
+      <link>https://www.040426.xyz/posts/0dfTT</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/0dfTT</guid>
+      <pubDate>Fri, 13 Nov 2026 10:53:00 +0000</pubDate>
+      <description>文章系统讲解深度网络训练与泛化工程实践：从小批量SGD、梯度累积及非凸损失地形出发，分析动量、Nesterov、AdamW和Muon等优化器，以及学习率调度、梯度裁剪与训练诊断；进一步介绍数据增强、Dropout、归一化、He初始化、迁移学习和LoRA等泛化技术，强调防止数据泄露、规范验证测试、断点续训与可复现实验流程。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5489</category>
+      <category>学术</category>
+      <category>湖南大学</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5491 Lecture9: 近似 Q-Learning 与概率论基础复习（贝叶斯网络前导）</title>
       <link>https://www.040426.xyz/posts/RHle2</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/RHle2</guid>
@@ -214,20 +228,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
-      <link>https://www.040426.xyz/posts/MWSnO</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>人民日报要闻版</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
       <link>https://www.040426.xyz/posts/jFewE</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>湖南大学融媒体中心</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
+      <link>https://www.040426.xyz/posts/MWSnO</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>人民日报要闻版</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -256,20 +270,6 @@
       <category>课程笔记</category>
       <category>CS5491</category>
       <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>DSC 6007 Lecture5: 马尔可夫决策过程的精确求解算法（Solving MDPs）</title>
-      <link>https://www.040426.xyz/posts/pQXky</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/pQXky</guid>
-      <pubDate>Wed, 14 Oct 2026 09:53:23 +0000</pubDate>
-      <description>本文详细探讨了马尔可夫决策过程（MDP）的求解方法，包括价值迭代法（VI）、策略迭代法（PI）和线性规划法（LP）。首先介绍了MDP的基本概念和五元组定义，包括状态空间、动作空间、状态转移概率、奖励函数和折现因子。接着，深入阐述了贝尔曼最优方程和策略的概念，并介绍了策略贝尔曼算子和贝尔曼最优算子。然后，详细分析了价值迭代法，包括其算法流程、压缩映射定理、误差界和策略终止判定。接着，介绍了策略迭代法，包括其算法结构、策略评估、策略提升和策略提升定理。此外，还探讨了线性规划法，包括其核心建模直觉、标准型、Python CVXPY 工业求解范例。最后，对三种经典算法进行了全方位横向对比，并进行了最短路径问题（SPP）求解专题演练。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CityU</category>
-      <category>DSC6007</category>
       <category>学术</category>
       <category>笔记</category>
     </item>
