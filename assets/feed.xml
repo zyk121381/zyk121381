@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>DSC 6007 Lecture9: 策略梯度（Policy Gradient）与演员-评论家（Actor-Critic）算法全景解析</title>
+      <link>https://www.040426.xyz/posts/DcVP7</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/DcVP7</guid>
+      <pubDate>Wed, 11 Nov 2026 10:50:11 +0000</pubDate>
+      <description>本文系统介绍策略梯度强化学习：通过直接参数化策略并以梯度上升优化期望回报，解决价值方法在高维连续动作空间中的局限。内容推导了REINFORCE、策略梯度定理及Softmax和高斯策略，并利用基线与优势函数降低方差；进一步阐释Actor-Critic以TD误差实现在线评价，以及兼容函数逼近保证近似梯度无偏的条件。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>DSC6007</category>
+      <category>学术</category>
+      <category>湖南大学</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5187 Lecture10: 从无似然学习到对抗博弈：生成对抗网络（GAN）、f-GAN、WGAN 与跨域翻译全解析</title>
       <link>https://www.040426.xyz/posts/uhM2U</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/uhM2U</guid>
@@ -186,20 +200,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
-      <link>https://www.040426.xyz/posts/MWSnO</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>人民日报要闻版</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
       <link>https://www.040426.xyz/posts/jFewE</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>湖南大学融媒体中心</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
+      <link>https://www.040426.xyz/posts/MWSnO</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>人民日报要闻版</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -255,20 +269,6 @@
       <category>大学</category>
       <category>课程笔记</category>
       <category>CS5491</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5489 Lecture5: 线性回归与正则化进阶：从 OLS 到 Ridge 与 Lasso 的数学旅程</title>
-      <link>https://www.040426.xyz/posts/T4I1I</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/T4I1I</guid>
-      <pubDate>Fri, 09 Oct 2026 04:55:16 +0000</pubDate>
-      <description>本文详细探讨了线性回归（Linear Regression）的数学原理和实现方法，从普通最小二乘法（OLS）出发，逐步引入正则化策略以解决数值与工程挑战。文章首先介绍了回归任务的基本概念，并通过一维简单线性回归推导出解析解，进而扩展到多维特征。接着，详细阐述了正则化策略，包括岭回归（Ridge Regression）和套索回归（Lasso Regression），并从贝叶斯视角分析了这些方法的理论基础。此外，文章还探讨了正交设计下的解耦与收缩机理，以及OLS、Ridge和Lasso的全景横向对比。最后，通过波士顿房价预测案例，对正则化路径、超参数选择、回归系数的解释等问题进行了深入分析，并展望了非线性与鲁棒回归的发展方向。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5489</category>
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
