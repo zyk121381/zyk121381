@@ -18,6 +18,20 @@
       <category>建站</category>
     </item>
     <item>
+      <title>DSC 6007 Lecture8: 从查表到函数逼近——价值函数近似与策略梯度方法入门</title>
+      <link>https://www.040426.xyz/posts/7JwdA</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/7JwdA</guid>
+      <pubDate>Sun, 08 Nov 2026 10:38:53 +0000</pubDate>
+      <description>文章系统介绍了强化学习中价值函数近似的必要性与方法：针对查表法在高维、连续状态下的存储、采样和泛化瓶颈，以线性特征组合将价值估计转化为参数优化问题。文中比较了MC与TD(0)的更新机制、收敛特性及半梯度本质，并扩展至SARSA、Q-learning控制，指出函数逼近、自举和离策略结合可能导致发散。最后引出策略梯度，通过直接参数化策略解决连续动作空间问题，同时说明其随机探索、稳定性优势及高方差、局部最优等局限。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CityU</category>
+      <category>DSC6007</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>DSC 6007 Lecture7: MC Control、SARSA 与 Q-Learning</title>
       <link>https://www.040426.xyz/posts/s6S8H</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/s6S8H</guid>
@@ -158,20 +172,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
-      <link>https://www.040426.xyz/posts/MWSnO</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>人民日报要闻版</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
       <link>https://www.040426.xyz/posts/jFewE</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>湖南大学融媒体中心</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
+      <link>https://www.040426.xyz/posts/MWSnO</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>人民日报要闻版</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -251,20 +265,6 @@
       <guid isPermaLink="true">https://www.040426.xyz/posts/6XWg5</guid>
       <pubDate>Tue, 29 Sep 2026 10:05:09 +0000</pubDate>
       <description>本文深入探讨了计算机视觉领域的多个关键概念和技术。首先介绍了双目立体视觉的原理，包括三角测量、几何成像原理、极线几何与视差推导、立体匹配算法和能量最小化框架。接着，讨论了多视图立体视觉，包括多视角的优势与基线博弈、平面扫描立体视觉和多基线立体视觉。文章还介绍了计算机视觉的范式转移，从传统图像处理到深度学习的演进，并详细解释了语义鸿沟、欠定问题与流形假说。此外，文章涵盖了线性分类器的三重视角、损失函数与Softmax交叉熵详解、梯度下降法与优化、多层感知机与非线性激活函数、序列建模与循环神经网络（RNN）、卷积神经网络（CNN）以及注意力机制与Transformer。最后，文章以全篇知识体系横向总结对照，对各种架构和方法的核心处理单元、几何/结构先验、空间/记忆复杂度、主要缺陷/挑战和适用场景进行了详细比较。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5187</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5187 Lecture5: 图像对齐、RANSAC 鲁棒估计与相机几何模型</title>
-      <link>https://www.040426.xyz/posts/rvDCL</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/rvDCL</guid>
-      <pubDate>Tue, 29 Sep 2026 09:14:33 +0000</pubDate>
-      <description>本文详细介绍了计算机视觉中的空间几何变换与成像投影模型，涵盖了图像变换参数估计、鲁棒估计与RANSAC算法、相机成像与射影几何等内容。首先，文章阐述了图像变换参数估计，包括平移、仿射变换和透视单应性变换，并推导了无约束与有约束最小二乘法。接着，介绍了鲁棒估计与RANSAC算法，用于解决真实匹配中包含大量噪声外点时的参数鲁棒拟合，并严格推导了采样轮数公式。然后，探讨了相机成像与射影几何，从针孔成像、透镜物理光学推导出三维世界点到二维像素平面的投影矩阵，并讨论了透视失真与镜头畸变。最后，文章通过实例和公式详细解释了各种几何变换和投影模型的原理和应用。</description>
       <category>CityU</category>
       <category>大学</category>
       <category>课程笔记</category>
