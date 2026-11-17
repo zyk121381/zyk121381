@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5187 Lecture10: 从无似然学习到对抗博弈：生成对抗网络（GAN）、f-GAN、WGAN 与跨域翻译全解析</title>
+      <link>https://www.040426.xyz/posts/uhM2U</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/uhM2U</guid>
+      <pubDate>Tue, 10 Nov 2026 10:20:14 +0000</pubDate>
+      <description>文章系统梳理了从最大似然生成模型到无似然对抗学习的发展脉络，复习正则化流的变量代换、雅可比行列式与可逆结构，说明似然与样本质量可能脱节。随后阐释GAN基于两样本检验的极小极大博弈、JS散度及训练难题，并介绍f-GAN和WGAN如何以变分散度与Wasserstein距离改善梯度消失和模式崩溃，最后扩展至BiGAN及CycleGAN、AlignFlow、StarGAN等表征学习与跨域图像翻译方法。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5187</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>给学校GPT套个壳</title>
       <link>https://www.040426.xyz/posts/RHSe2</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/RHSe2</guid>
@@ -172,20 +186,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
-      <link>https://www.040426.xyz/posts/jFewE</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>湖南大学融媒体中心</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
       <link>https://www.040426.xyz/posts/MWSnO</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>人民日报要闻版</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
+      <link>https://www.040426.xyz/posts/jFewE</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>湖南大学融媒体中心</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -255,20 +269,6 @@
       <category>大学</category>
       <category>课程笔记</category>
       <category>CS5489</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5187 Lecture6: 从三维立体视觉几何重建到深度学习与 Transformer 架构</title>
-      <link>https://www.040426.xyz/posts/6XWg5</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/6XWg5</guid>
-      <pubDate>Tue, 29 Sep 2026 10:05:09 +0000</pubDate>
-      <description>本文深入探讨了计算机视觉领域的多个关键概念和技术。首先介绍了双目立体视觉的原理，包括三角测量、几何成像原理、极线几何与视差推导、立体匹配算法和能量最小化框架。接着，讨论了多视图立体视觉，包括多视角的优势与基线博弈、平面扫描立体视觉和多基线立体视觉。文章还介绍了计算机视觉的范式转移，从传统图像处理到深度学习的演进，并详细解释了语义鸿沟、欠定问题与流形假说。此外，文章涵盖了线性分类器的三重视角、损失函数与Softmax交叉熵详解、梯度下降法与优化、多层感知机与非线性激活函数、序列建模与循环神经网络（RNN）、卷积神经网络（CNN）以及注意力机制与Transformer。最后，文章以全篇知识体系横向总结对照，对各种架构和方法的核心处理单元、几何/结构先验、空间/记忆复杂度、主要缺陷/挑战和适用场景进行了详细比较。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5187</category>
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
