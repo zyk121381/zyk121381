@@ -98,6 +98,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 > **Accessible from Mainland China only.**
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-11 · [DSC 6007 Lecture9: 策略梯度（Policy Gradient）与演员-评论家（Actor-Critic）算法全景解析](https://www.040426.xyz/posts/DcVP7)
 - 2026-11-10 · [CS 5187 Lecture10: 从无似然学习到对抗博弈：生成对抗网络（GAN）、f-GAN、WGAN 与跨域翻译全解析](https://www.040426.xyz/posts/uhM2U)
 - 2026-11-08 · [给学校GPT套个壳](https://www.040426.xyz/posts/RHSe2)
 - 2026-11-08 · [DSC 6007 Lecture8: 从查表到函数逼近——价值函数近似与策略梯度方法入门](https://www.040426.xyz/posts/7JwdA)
@@ -106,8 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-11-05 · [CS 5491 Lecture8: 从无模型策略评估到 Q-Learning 与异策略控制](https://www.040426.xyz/posts/wGqf3)
 - 2026-11-04 · [DSC 6007 Lecture6: 无模型预测理论（蒙特卡洛与时序差分学习）及马尔可夫决策过程优化求解](https://www.040426.xyz/posts/xDKoS)
 - 2026-11-03 · [CS 5187 Lecture9: 从连续介质微元形变到概率流：标准化流（Normalizing Flow）模型与架构](https://www.040426.xyz/posts/2BgYS)
-- 2026-10-30 · [CS 5489 Lecture8: 从惯性主轴到高维流形展开：主成分分析 &lpar;PCA&rpar; 与核主成分分析 &lpar;Kernel PCA&rpar;](https://www.040426.xyz/posts/QR4AU)
-- 2026-10-29 · [CS 5491 Lecture7: 从确定性搜索到随机决策：马尔可夫决策过程（MDP）与动态规划算法](https://www.040426.xyz/posts/VMSXp)<!-- BLOG-POST-LIST:END -->
+- 2026-10-30 · [CS 5489 Lecture8: 从惯性主轴到高维流形展开：主成分分析 &lpar;PCA&rpar; 与核主成分分析 &lpar;Kernel PCA&rpar;](https://www.040426.xyz/posts/QR4AU)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
