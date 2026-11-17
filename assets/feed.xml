@@ -18,6 +18,20 @@
       <category>建站</category>
     </item>
     <item>
+      <title>DSC 6007 Lecture7: MC Control、SARSA 与 Q-Learning</title>
+      <link>https://www.040426.xyz/posts/s6S8H</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/s6S8H</guid>
+      <pubDate>Sat, 07 Nov 2026 10:26:57 +0000</pubDate>
+      <description>本文系统阐述无模型控制如何在未知或计算不可行的环境中，通过行动价值函数Q实现策略改进。内容涵盖MC与TD控制、ε-贪婪探索、GLIE收敛条件、SARSA同策略学习、重要性采样异策略方法及Q-Learning的更新机制，并比较各算法在方差、在线学习、探索要求和最优性方面的特点。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CityU</category>
+      <category>DSC6007</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5489 Lecture9: 从感知机、多层网络到计算图反向传播与卷积网络数学本质</title>
       <link>https://www.040426.xyz/posts/kAJKG</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/kAJKG</guid>
@@ -144,20 +158,20 @@
       <category>笔记</category>
     </item>
     <item>
-      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
-      <link>https://www.040426.xyz/posts/jFewE</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>湖南大学融媒体中心</author>
-      <category>大学</category>
-      <category>湖南大学</category>
-    </item>
-    <item>
       <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
       <link>https://www.040426.xyz/posts/MWSnO</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
       <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
       <author>人民日报要闻版</author>
+      <category>大学</category>
+      <category>湖南大学</category>
+    </item>
+    <item>
+      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
+      <link>https://www.040426.xyz/posts/jFewE</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
+      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
+      <author>湖南大学融媒体中心</author>
       <category>大学</category>
       <category>湖南大学</category>
     </item>
@@ -255,20 +269,6 @@
       <category>大学</category>
       <category>课程笔记</category>
       <category>CS5187</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5491 Lecture4: 对抗搜索与含概率博弈</title>
-      <link>https://www.040426.xyz/posts/B9pj2</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/B9pj2</guid>
-      <pubDate>Sat, 26 Sep 2026 10:57:07 +0000</pubDate>
-      <description>本文深入探讨了多智能体对抗与博弈（Multi-Agent Adversarial Search &amp; Games with Chance）的核心概念和算法。文章首先介绍了从单智能体搜索到多智能体交互的转变，并详细阐述了合作、竞争和混合智能体交互的模型。接着，文章回顾了人工智能在棋类博弈中的发展历程，包括西洋跳棋、国际象棋和围棋等，并介绍了不完全信息博弈的实例。随后，文章从博弈论的角度，详细解释了确定性完全信息零和博弈（如极大极小搜索、α-β剪枝和深度截断评估）和含概率与非完美理性博弈（如期望极大搜索、机会节点剪枝界限和冯·诺依曼效用理论）的相关内容。此外，文章还探讨了博弈分类的核心维度，包括确定性机制、参与方数量、利益冲突性和信息可见度。在确定性双人博弈的形式化建模方面，文章详细介绍了状态集合、玩家集合、动作集合、状态转移函数、终止状态测试和终止效用函数等概念。在极大极小搜索（Minimax Search）模块中，文章深入探讨了状态价值与力学极值类比、算法实现架构、经典三叉树手工计算全流程演练、理性假设与“诱饵陷阱”以及Minimax复杂度瓶颈与维度灾难等问题。在α-β剪枝算法（α-β Pruning）模块中，文章详细介绍了核心数学思想、剪枝准则的形式化推导、算法伪代码与参数传递机制、完整跟踪算例以及节点扩展顺序与复杂度跃迁等内容。在资源受限下的现实搜索与启发式评估模块中，文章介绍了深度截断搜索、启发式评估函数的构造与地平线效应、随时算法（Anytime Algorithm）和确定性博弈搜索算法横向全景对比等内容。在含概率博弈与期望极大搜索（Expectimax Search）模块中，文章从极端最坏情况走向平均情况思维、概率与数学期望基础、期望极大搜索机制与算法实现、典型算例推导、Expectimax 能够像 Minimax 那样剪枝吗？以及混合智能体博弈等内容进行了详细阐述。在建模假设的风险（Optimism vs. Pessimism）模块中，文章探讨了最大期望效用准则（Principle of MEU）、效用单调变换的不变性断裂、冯·诺依曼-摩根斯坦效用定理（VNM Utility Theorem）以及效用设计与系统对齐（Reward Hacking 警告）等内容。最后，文章通过核心知识点复盘自测Q&amp;A的形式，对全文内容进行了总结和回顾。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5491</category>
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
