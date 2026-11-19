@@ -98,6 +98,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 > **Accessible from Mainland China only.**
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-19 · [CS 5491 Lecture10: 贝叶斯网络的表示、条件独立性与 D-分离](https://www.040426.xyz/posts/miVxy)
 - 2026-11-18 · [DSC 6007 Lecture10: 多臂老虎机（Multi-Armed Bandits）全解：从探索利用权衡、UCB1 理论证明到汤普森采样与 LinUCB](https://www.040426.xyz/posts/gbcHa)
 - 2026-11-17 · [CS 5187 Lecture11: 从生成对抗网络均衡原理到能量模型（EBM）与无采样训练](https://www.040426.xyz/posts/Aeos0)
 - 2026-11-13 · [CS 5489 Lecture10: 深度神经网络优化、正则化与工程训练实战全解](https://www.040426.xyz/posts/0dfTT)
@@ -106,8 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-11-10 · [CS 5187 Lecture10: 从无似然学习到对抗博弈：生成对抗网络（GAN）、f-GAN、WGAN 与跨域翻译全解析](https://www.040426.xyz/posts/uhM2U)
 - 2026-11-08 · [给学校GPT套个壳](https://www.040426.xyz/posts/RHSe2)
 - 2026-11-08 · [DSC 6007 Lecture8: 从查表到函数逼近——价值函数近似与策略梯度方法入门](https://www.040426.xyz/posts/7JwdA)
-- 2026-11-07 · [DSC 6007 Lecture7: MC Control、SARSA 与 Q-Learning](https://www.040426.xyz/posts/s6S8H)
-- 2026-11-06 · [CS 5489 Lecture9: 从感知机、多层网络到计算图反向传播与卷积网络数学本质](https://www.040426.xyz/posts/kAJKG)<!-- BLOG-POST-LIST:END -->
+- 2026-11-07 · [DSC 6007 Lecture7: MC Control、SARSA 与 Q-Learning](https://www.040426.xyz/posts/s6S8H)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
