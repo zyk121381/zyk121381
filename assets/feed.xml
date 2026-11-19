@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5491 Lecture10: 贝叶斯网络的表示、条件独立性与 D-分离</title>
+      <link>https://www.040426.xyz/posts/miVxy</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/miVxy</guid>
+      <pubDate>Thu, 19 Nov 2026 11:05:31 +0000</pubDate>
+      <description>文章系统阐述贝叶斯网络如何以有向无环图和局部条件概率表表示复杂不确定系统，通过绝对独立与条件独立假设降低联合分布的指数级复杂度。内容分析因果链、共因和共果结构的信息传递规律，说明观测证据对变量相关性的阻断或激活作用，并介绍D-分离算法、马尔可夫等价及模型稀疏性与表达能力之间的工程权衡。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5491</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>DSC 6007 Lecture10: 多臂老虎机（Multi-Armed Bandits）全解：从探索利用权衡、UCB1 理论证明到汤普森采样与 LinUCB</title>
       <link>https://www.040426.xyz/posts/gbcHa</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/gbcHa</guid>
@@ -254,15 +268,6 @@
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
-    </item>
-    <item>
-      <title>【HNU100】庆祝湖南大学建校100周年大会隆重举行</title>
-      <link>https://www.040426.xyz/posts/jFewE</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/jFewE</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>湖南大学融媒体中心</author>
-      <category>大学</category>
-      <category>湖南大学</category>
     </item>
     <item>
       <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
