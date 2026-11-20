@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5489 Lecture11: 计算机视觉深度学习全解析：从高层次语义理解到低层次图像重建与感知度量</title>
+      <link>https://www.040426.xyz/posts/HZYV1</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/HZYV1</guid>
+      <pubDate>Fri, 20 Nov 2026 12:04:13 +0000</pubDate>
+      <description>文章系统梳理高层次与低层次视觉：前者涵盖分类、检测与分割，回顾CNN、Transformer、图文对齐及开放词汇方法的演进；后者将去噪、去模糊、超分辨率、压缩和修复视为带图像先验的逆问题。文章同时介绍IoU、MSE、SSIM、LPIPS、DISTS等评估体系，强调模型设计需权衡精度、感知质量、算力与比特资源。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5489</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5491 Lecture10: 贝叶斯网络的表示、条件独立性与 D-分离</title>
       <link>https://www.040426.xyz/posts/miVxy</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/miVxy</guid>
@@ -268,15 +282,6 @@
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
-    </item>
-    <item>
-      <title>【HNU100】千年学府育英才 经世致用谱新篇</title>
-      <link>https://www.040426.xyz/posts/MWSnO</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/MWSnO</guid>
-      <pubDate>Fri, 16 Oct 2026 12:30:00 +0000</pubDate>
-      <author>人民日报要闻版</author>
-      <category>大学</category>
-      <category>湖南大学</category>
     </item>
   </channel>
 </rss>
