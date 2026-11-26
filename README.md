@@ -98,6 +98,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 > **Accessible from Mainland China only.**
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-24 · [CS 5187 Lecture12: 从势场力学到随机扩散：分数生成模型、随机微分方程与生成评估](https://www.040426.xyz/posts/SxHIp)
 - 2026-11-20 · [CS 5489 Lecture11: 计算机视觉深度学习全解析：从高层次语义理解到低层次图像重建与感知度量](https://www.040426.xyz/posts/HZYV1)
 - 2026-11-19 · [CS 5491 Lecture10: 贝叶斯网络的表示、条件独立性与 D-分离](https://www.040426.xyz/posts/miVxy)
 - 2026-11-18 · [DSC 6007 Lecture10: 多臂老虎机（Multi-Armed Bandits）全解：从探索利用权衡、UCB1 理论证明到汤普森采样与 LinUCB](https://www.040426.xyz/posts/gbcHa)
@@ -106,8 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-11-12 · [CS 5491 Lecture9: 近似 Q-Learning 与概率论基础复习（贝叶斯网络前导）](https://www.040426.xyz/posts/RHle2)
 - 2026-11-11 · [DSC 6007 Lecture9: 策略梯度（Policy Gradient）与演员-评论家（Actor-Critic）算法全景解析](https://www.040426.xyz/posts/DcVP7)
 - 2026-11-10 · [CS 5187 Lecture10: 从无似然学习到对抗博弈：生成对抗网络（GAN）、f-GAN、WGAN 与跨域翻译全解析](https://www.040426.xyz/posts/uhM2U)
-- 2026-11-08 · [给学校GPT套个壳](https://www.040426.xyz/posts/RHSe2)
-- 2026-11-08 · [DSC 6007 Lecture8: 从查表到函数逼近——价值函数近似与策略梯度方法入门](https://www.040426.xyz/posts/7JwdA)<!-- BLOG-POST-LIST:END -->
+- 2026-11-08 · [给学校GPT套个壳](https://www.040426.xyz/posts/RHSe2)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
