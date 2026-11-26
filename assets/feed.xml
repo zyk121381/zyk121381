@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5187 Lecture12: 从势场力学到随机扩散：分数生成模型、随机微分方程与生成评估</title>
+      <link>https://www.040426.xyz/posts/SxHIp</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/SxHIp</guid>
+      <pubDate>Tue, 24 Nov 2026 10:16:27 +0000</pubDate>
+      <description>本文系统介绍基于分数的扩散模型，从能量模型、概率归一化与朗之万采样出发，阐释分数函数作为概率密度梯度和保守力场的物理含义。文章比较显式、切片与去噪分数匹配，说明多尺度噪声、NCSN、DDPM、SDE及概率流ODE的统一关系，并讨论采样加速、潜在扩散、条件引导及FID、KID等生成与表征评估方法。</description>
+      <category>CityU</category>
+      <category>毕业设计笔记</category>
+      <category>课程笔记</category>
+      <category>CS5187</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5489 Lecture11: 计算机视觉深度学习全解析：从高层次语义理解到低层次图像重建与感知度量</title>
       <link>https://www.040426.xyz/posts/HZYV1</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/HZYV1</guid>
@@ -265,20 +279,6 @@
       <category>大学</category>
       <category>课程笔记</category>
       <category>CS5489</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5187 Lecture7: 极大似然估计与隐变量模型（ELBO 变分推断）</title>
-      <link>https://www.040426.xyz/posts/Xnrbx</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/Xnrbx</guid>
-      <pubDate>Tue, 20 Oct 2026 11:10:12 +0000</pubDate>
-      <description>本文深入探讨了现代深度生成模型的理论基础和实现方法。文章首先通过将工程力学体系与深度生成模型进行类比，帮助读者建立直观的物理与力学映射，从而更好地理解模型中的统计学术语。接着，文章回顾了判别式模型与深度网络的基础机制，重点介绍了自注意力机制、Transformer、非线性激活层和交叉熵损失等概念。随后，文章详细阐述了生成模型的三个核心能力：生成采样、密度估计和无监督表征学习，并探讨了如何表示分布和学习参数这两个核心理论问题。文章进一步介绍了KL散度及其在衡量模型分布与真实数据分布之间的接近程度方面的应用，并从最小化KL散度到极大似然估计（MLE）进行了推导。此外，文章还介绍了蒙特卡洛估计、经验似然、经验风险、过拟合、偏差-方差权衡等概念，并探讨了如何抑制过拟合和构建条件生成模型。最后，文章对比了自回归模型、隐变量模型和生成对抗网络（GANs）等不同生成模型的技术路线和优缺点，为读者提供了全景总结。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5187</category>
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
