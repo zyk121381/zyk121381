@@ -10,10 +10,10 @@
       <title>CS 5187 Lecture12: 从势场力学到随机扩散：分数生成模型、随机微分方程与生成评估</title>
       <link>https://www.040426.xyz/posts/SxHIp</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/SxHIp</guid>
-      <pubDate>Tue, 24 Nov 2026 10:16:27 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 10:16:00 +0000</pubDate>
       <description>本文系统介绍基于分数的扩散模型，从能量模型、概率归一化与朗之万采样出发，阐释分数函数作为概率密度梯度和保守力场的物理含义。文章比较显式、切片与去噪分数匹配，说明多尺度噪声、NCSN、DDPM、SDE及概率流ODE的统一关系，并讨论采样加速、潜在扩散、条件引导及FID、KID等生成与表征评估方法。</description>
       <category>CityU</category>
-      <category>毕业设计笔记</category>
+      <category>大学</category>
       <category>课程笔记</category>
       <category>CS5187</category>
       <category>CityU</category>
