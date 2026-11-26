@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5491 Lecture11: 概率图模型深度精析：贝叶斯网络精确推断、变量消除与四大近似采样算法</title>
+      <link>https://www.040426.xyz/posts/eV26F</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/eV26F</guid>
+      <pubDate>Thu, 26 Nov 2026 08:48:25 +0000</pubDate>
+      <description>文章系统介绍贝叶斯网络的表示、推断任务及计算方法，说明枚举推断因联合状态空间指数增长而受限。通过因子表示、结合与边缘化操作，变量消除算法可利用局部结构实现高效精确推断，其效率受消元顺序和树宽制约。针对大规模复杂网络，文章比较先验采样、拒绝采样、似然加权与吉布斯采样等近似推断方法的机制、优势及局限。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5491</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5187 Lecture12: 从势场力学到随机扩散：分数生成模型、随机微分方程与生成评估</title>
       <link>https://www.040426.xyz/posts/SxHIp</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/SxHIp</guid>
@@ -265,20 +279,6 @@
       <category>大学</category>
       <category>课程笔记</category>
       <category>CS5187</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5489 Lecture7: 从EM算法到线性降维与SVD：统计推断与低秩几何重构的全景</title>
-      <link>https://www.040426.xyz/posts/gbtHa</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/gbtHa</guid>
-      <pubDate>Fri, 23 Oct 2026 17:01:45 +0000</pubDate>
-      <description>本讲义深入探讨了机器学习中无监督学习模块的核心理论，包括期望极大化算法（EM）和线性降维与奇异值分解（SVD）。EM算法通过变分下界和琴生不等式，结合力学中的虚位移原理和最小势能原理，实现了对隐变量概率推断的优化。数据投影、基变换和SVD低秩近似与连续介质力学中的应力/应变张量主轴化、结构振动中的主模态正交分解以及刚体动力学中的主转动惯量与主轴分解具有数学上的等价性。讲义通过代数证明、几何类比和物理直观的结合，构建了一个无跳步、全推导的无监督学习认知体系。重点介绍了EM算法的原理、GMM模型、变分自由能（ELBO）的推导、EM算法的双步迭代过程，以及KL散度和坐标上升视角下的理论闭环。此外，还讨论了降维的物理意义、降维与数据压缩的区别、线性降维的数学框架、低秩矩阵近似、交替最小二乘法（ALS）的推导，以及奇异值分解（SVD）的基础数学理论、紧凑SVD、截断SVD、Eckart-Young-Mirsky定理和基于SVD的坐标投影、重构流程。最后，介绍了降维维度选择策略和工程实践准则。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5489</category>
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
