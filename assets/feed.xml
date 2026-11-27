@@ -7,6 +7,20 @@
     <language>zh-CN</language>
     <atom:link href="https://www.040426.xyz/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CS 5489 Lecture12: 深度生成模型与对抗鲁棒性全景精要：从极小极大博弈、扩散物理过程到视觉Transformer与对抗攻防</title>
+      <link>https://www.040426.xyz/posts/eVY6F</link>
+      <guid isPermaLink="true">https://www.040426.xyz/posts/eVY6F</guid>
+      <pubDate>Fri, 27 Nov 2026 15:10:18 +0000</pubDate>
+      <description>讲义系统阐释生成式建模与对抗机器学习的理论基础和工程实践，涵盖显式密度模型、VAE、GAN、InfoGAN、SinGAN及扩散模型的采样、训练与条件生成机制，并介绍ViT和DiT的注意力结构与计算特点；同时从威胁模型、FGSM、PGD、物理攻击到对抗训练，分析深度模型脆弱性及鲁棒优化方法。</description>
+      <category>CityU</category>
+      <category>大学</category>
+      <category>课程笔记</category>
+      <category>CS5489</category>
+      <category>CityU</category>
+      <category>学术</category>
+      <category>笔记</category>
+    </item>
+    <item>
       <title>CS 5491 Lecture11: 概率图模型深度精析：贝叶斯网络精确推断、变量消除与四大近似采样算法</title>
       <link>https://www.040426.xyz/posts/eV26F</link>
       <guid isPermaLink="true">https://www.040426.xyz/posts/eV26F</guid>
@@ -265,20 +279,6 @@
       <category>大学</category>
       <category>课程笔记</category>
       <category>CS5491</category>
-      <category>CityU</category>
-      <category>学术</category>
-      <category>笔记</category>
-    </item>
-    <item>
-      <title>CS 5187 Lecture8: Quiz2 &amp; 似然估计、信息熵压缩与变分自编码器（VAE）全推导</title>
-      <link>https://www.040426.xyz/posts/KsT5m</link>
-      <guid isPermaLink="true">https://www.040426.xyz/posts/KsT5m</guid>
-      <pubDate>Tue, 27 Oct 2026 12:01:15 +0000</pubDate>
-      <description>本文深入探讨了机器学习中的数学原理和算法，分为两部分。第一部分详细解析了课堂测验中的核心概念，包括似然、KL散度和证据下界，并通过数学推导和物理直观解释了这些概念的本质。第二部分则系统地推导了隐变量模型和变分自编码器，涵盖了变分推断、随机变分推断、均摊推断以及重参数化技巧，并从工程力学的角度对比了隐空间映射和广义坐标系的概念。文章通过具体的数学推导和实例分析，阐述了优化目标、信息编码压缩、证据下界提升以及变分自编码器的目标函数分解等关键点，并揭示了梯度回传中的挑战和重参数化技巧的重要性。</description>
-      <category>CityU</category>
-      <category>大学</category>
-      <category>课程笔记</category>
-      <category>CS5187</category>
       <category>CityU</category>
       <category>学术</category>
       <category>笔记</category>
