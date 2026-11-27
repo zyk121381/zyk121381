@@ -98,6 +98,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 > **Accessible from Mainland China only.**
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-27 · [CS 5489 Lecture12: 深度生成模型与对抗鲁棒性全景精要：从极小极大博弈、扩散物理过程到视觉Transformer与对抗攻防](https://www.040426.xyz/posts/eVY6F)
 - 2026-11-26 · [CS 5491 Lecture11: 概率图模型深度精析：贝叶斯网络精确推断、变量消除与四大近似采样算法](https://www.040426.xyz/posts/eV26F)
 - 2026-11-24 · [CS 5187 Lecture12: 从势场力学到随机扩散：分数生成模型、随机微分方程与生成评估](https://www.040426.xyz/posts/SxHIp)
 - 2026-11-20 · [CS 5489 Lecture11: 计算机视觉深度学习全解析：从高层次语义理解到低层次图像重建与感知度量](https://www.040426.xyz/posts/HZYV1)
@@ -106,8 +107,7 @@ I'm **Valerian**, a postgraduate student in Artificial Intelligence at CityUHK. 
 - 2026-11-17 · [CS 5187 Lecture11: 从生成对抗网络均衡原理到能量模型（EBM）与无采样训练](https://www.040426.xyz/posts/Aeos0)
 - 2026-11-13 · [CS 5489 Lecture10: 深度神经网络优化、正则化与工程训练实战全解](https://www.040426.xyz/posts/0dfTT)
 - 2026-11-12 · [CS 5491 Lecture9: 近似 Q-Learning 与概率论基础复习（贝叶斯网络前导）](https://www.040426.xyz/posts/RHle2)
-- 2026-11-11 · [DSC 6007 Lecture9: 策略梯度（Policy Gradient）与演员-评论家（Actor-Critic）算法全景解析](https://www.040426.xyz/posts/DcVP7)
-- 2026-11-10 · [CS 5187 Lecture10: 从无似然学习到对抗博弈：生成对抗网络（GAN）、f-GAN、WGAN 与跨域翻译全解析](https://www.040426.xyz/posts/uhM2U)<!-- BLOG-POST-LIST:END -->
+- 2026-11-11 · [DSC 6007 Lecture9: 策略梯度（Policy Gradient）与演员-评论家（Actor-Critic）算法全景解析](https://www.040426.xyz/posts/DcVP7)<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
